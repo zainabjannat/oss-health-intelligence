@@ -4,13 +4,16 @@ import numpy as np
 import joblib
 import shap
 import matplotlib.pyplot as plt
+from pathlib import Path
 
 st.set_page_config(page_title="OSS Health Intelligence", layout="wide")
 
 # ---- Load model ----
+
 @st.cache_resource
 def load_model():
-    models = joblib.load('../models/random_forest_models.pkl')
+    model_path = Path(__file__).resolve().parent.parent / "models" / "random_forest_models.pkl"
+    models = joblib.load(model_path)
     return models['rf_full']
 
 model = load_model()
