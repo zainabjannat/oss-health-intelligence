@@ -4,6 +4,8 @@
 
 `Python` `GitHub GraphQL API` `SQL (SQLite)` `pandas` `scikit-learn` `SHAP` `Power BI` `Streamlit`
 
+**[Live app](https://zainabjannat-oss-health-intelligence-appapp-m0m2kw.streamlit.app/)**
+
 ## Overview
 
 Stars measure how popular a repo was, not whether anyone still maintains it. This project asks:
