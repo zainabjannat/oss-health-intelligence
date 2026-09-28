@@ -1,0 +1,499 @@
+repo,stars,forks,language,license,is_archived,age_days,days_since_last_push,days_since_last_commit,commits_per_month_90d,commits_per_month_365d,distinct_recent_commit_authors,total_mentionable_users,open_issues_total,closed_issues_total,median_issue_resolution_days_recent,open_prs_total,merged_prs_total,median_pr_merge_days_recent,pr_merge_rate_recent,star_tier,has_recent_pr_activity,has_recent_issue_activity,risk_score,risk_category
+codecrafters-io/build-your-own-x,544722,51316,Markdown,No license,False,3038,49,49.0,1.67,1.92,38,131,275,673,0.0,365,157,-1.0,0.0,mega,True,True,0,Low
+sindresorhus/awesome,502221,36685,None/Not detected,cc0-1.0,False,4435,0,0.0,2.33,3.0,68,621,16,352,0.0,89,702,0.0,0.1,mega,True,True,0,Low
+public-apis/public-apis,474426,52388,Python,mit,False,3817,0,0.0,151.67,59.0,37,1487,35,911,4.0,1813,2190,1.0,0.32,mega,True,True,0,Low
+freeCodeCamp/freeCodeCamp,454881,46100,TypeScript,bsd-3-clause,False,4269,0,0.0,269.67,292.08,39,6226,128,21987,0.0,92,29249,0.0,0.42,mega,True,True,0,Low
+EbookFoundation/free-programming-books,395797,66724,Python,cc-by-4.0,False,4709,1,1.0,20.0,51.17,78,3204,39,1258,2.0,44,7431,1.0,0.46,mega,True,True,0,Low
+openclaw/openclaw,388602,81600,TypeScript,other,False,282,0,0.0,9931.67,7224.92,30,2990,3676,46771,0.0,2362,32273,0.0,0.32,mega,True,True,0,Low
+donnemartin/system-design-primer,367641,58190,Python,other,False,3474,166,166.0,0.0,0.8300000000000001,70,128,279,127,0.0,333,210,-1.0,0.0,mega,True,True,25,Medium
+nilbuild/developer-roadmap,366128,44894,TypeScript,other,False,3457,0,0.0,49.33,63.42,31,1533,0,3192,2.0,8,4409,0.0,0.68,mega,True,True,0,Low
+jwasham/coding-interview-university,360220,84790,None/Not detected,cc-by-sa-4.0,False,3740,369,635.0,0.0,0.0,20,309,82,455,3.0,44,415,-1.0,0.0,mega,True,True,55,Medium
+vinta/awesome-python,317935,28628,Python,other,False,4449,1,1.0,83.67,84.25,4,525,0,0,-1.0,1,745,1.0,0.18,mega,True,False,0,Low
+awesome-selfhosted/awesome-selfhosted,316666,14891,None/Not detected,other,False,4111,0,0.0,30.67,19.75,0,1218,0,0,-1.0,0,0,-1.0,-1.0,mega,False,False,0,Low
+practical-tutorials/project-based-learning,281790,36118,Python,mit,False,3430,2,2.0,10.67,2.67,30,117,152,89,18.0,125,194,24.0,0.08,mega,True,True,0,Low
+obra/superpowers,280677,25147,Shell,mit,False,327,1,20.0,80.0,56.75,5,48,126,757,0.0,225,167,-1.0,0.0,mega,True,True,0,Low
+996icu/996.ICU,276836,20733,None/Not detected,other,False,2717,376,376.0,0.0,0.0,10,637,0,0,-1.0,10,1072,82.0,0.18,mega,True,False,55,Medium
+react/react,248655,51273,JavaScript,mit,False,4848,0,0.0,55.67,71.0,24,1830,852,13817,0.0,478,13062,0.0,0.06,mega,True,True,0,Low
+affaan-m/ECC,245996,37111,JavaScript,mit,False,227,0,1.0,205.0,217.92,16,339,44,688,11.0,91,1017,3.0,0.22,mega,True,True,0,Low
+torvalds/linux,245937,64268,C,other,False,5476,0,0.0,8244.67,7845.92,29,9976,0,0,-1.0,0,0,-1.0,-1.0,mega,False,False,0,Low
+mattpocock/skills,244615,20800,Shell,mit,False,211,8,8.0,122.33,38.08,3,3,444,321,0.0,5,95,0.0,0.86,mega,True,True,0,Low
+trimstray/the-book-of-secret-knowledge,241648,14262,None/Not detected,mit,False,2993,651,651.0,0.0,0.0,23,99,0,0,-1.0,164,122,-1.0,0.0,mega,True,False,55,Medium
+NousResearch/hermes-agent,239780,49029,Python,mit,False,406,0,0.0,5541.67,2261.25,25,2797,13023,12520,0.0,25628,12529,-1.0,0.0,mega,True,True,0,Low
+TheAlgorithms/Python,224186,51008,Python,mit,False,3700,0,0.0,10.0,8.83,51,1345,145,1610,19.0,918,3111,0.0,0.24,mega,True,True,0,Low
+vuejs/vue,211267,33748,TypeScript,mit,False,4783,692,692.0,0.0,0.0,35,401,366,9670,0.0,272,1136,-1.0,0.0,mega,True,True,55,Medium
+multica-ai/andrej-karpathy-skills,209537,21325,None/Not detected,No license,False,218,135,135.0,0.0,2.33,7,8,0,0,-1.0,100,12,-1.0,0.0,mega,True,False,25,Medium
+deepseek-ai/deepseek-harness,209049,24386,TypeScript,mit,False,20,0,0.0,4972.67,1243.17,9,39,0,0,-1.0,0,0,-1.0,-1.0,mega,False,False,0,Low
+ossu/computer-science,208629,25814,HTML,mit,False,4504,50,50.0,1.33,1.92,28,156,17,658,0.0,10,315,0.0,0.34,mega,True,True,0,Low
+anomalyco/opencode,203168,26464,TypeScript,mit,False,489,0,0.0,621.0,1101.83,18,988,4112,21359,0.0,1467,8376,0.0,0.56,mega,True,True,0,Low
+n8n-io/n8n,203116,60502,TypeScript,other,False,2629,0,0.0,1107.0,708.92,43,865,358,9833,0.0,771,20798,0.0,0.46,mega,True,True,0,Low
+tensorflow/tensorflow,198353,76227,C++,apache-2.0,False,3952,0,0.0,1210.67,1195.42,44,4186,721,41022,2.0,2296,49654,0.0,0.26,mega,True,True,0,Low
+DigitalPlatDev/FreeDomain,197208,4280,Markdown,agpl-3.0,False,824,21,21.0,0.67,1.25,2,4,0,0,-1.0,0,0,-1.0,-1.0,mega,False,False,10,Low
+trekhleb/javascript-algorithms,196595,31038,JavaScript,mit,False,3084,38,38.0,4.67,2.75,33,216,134,239,32.0,269,309,15.0,0.12,mega,True,True,0,Low
+ultraworkers/claw-code,195161,108767,Rust,mit,False,155,17,17.0,44.0,140.83,9,26,16,2195,8.0,25,142,1.0,0.16,mega,True,True,0,Low
+microsoft/vscode,190405,41940,TypeScript,mit,False,4016,0,0.0,1961.33,2178.08,37,2558,17911,234471,0.0,2448,52917,0.0,0.4,mega,True,True,0,Low
+ohmyzsh/ohmyzsh,189502,26584,Shell,mit,False,6213,1,1.0,25.67,24.17,58,2527,154,4929,18.0,422,3670,0.0,0.26,mega,True,True,0,Low
+massgravel/Microsoft-Activation-Scripts,189081,18044,Batchfile,gpl-3.0,False,2424,59,59.0,2.33,7.25,5,12,7,1077,0.0,0,0,-1.0,-1.0,mega,False,True,0,Low
+yt-dlp/yt-dlp,188476,16312,Python,unlicense,False,2137,2,2.0,55.67,45.08,24,1534,1994,10023,0.0,621,3435,0.0,0.44,mega,True,True,0,Low
+Significant-Gravitas/AutoGPT,187076,46042,Python,other,False,1266,0,4.0,109.33,149.42,10,822,298,3654,16.0,228,4839,0.0,0.26,mega,True,True,0,Low
+jackfrued/Python-100-Days,185847,55716,Jupyter Notebook,No license,False,3106,34,34.0,0.33,0.8300000000000001,1,13,544,193,57.0,170,13,-1.0,0.0,mega,True,True,35,Medium
+CyC2018/CS-Notes,185766,50772,None/Not detected,No license,False,3122,742,1140.0,0.0,0.0,4,226,130,449,0.0,66,374,-1.0,0.0,mega,True,True,75,High
+getify/You-Dont-Know-JS,184779,33423,None/Not detected,other,False,4673,199,226.0,0.0,0.17,12,186,0,947,0.0,2,370,0.0,0.38,mega,True,True,35,Medium
+avelino/awesome-go,182942,13532,Go,mit,False,4440,0,0.0,51.33,40.08,57,2276,24,736,3.0,199,3912,0.0,0.7000000000000001,mega,True,True,0,Low
+ollama/ollama,179956,17660,Go,mit,False,1163,0,0.0,90.33,99.67,10,615,2466,8663,0.0,1413,3579,0.0,0.06,mega,True,True,0,Low
+flutter/flutter,178742,31047,Dart,bsd-3-clause,False,4197,0,0.0,486.67,462.08,35,2184,12561,102878,0.0,599,49966,0.0,0.28,mega,True,True,0,Low
+microsoft/markitdown,177694,13073,Python,mit,False,657,0,0.0,9.67,3.75,58,10000,384,206,10.0,466,206,8.0,0.24,mega,True,True,0,Low
+github/gitignore,175548,82232,None/Not detected,cc0-1.0,False,5776,0,0.0,1.67,10.83,31,6491,0,0,-1.0,80,1781,35.0,0.04,mega,True,False,0,Low
+firecrawl/firecrawl,175512,9624,TypeScript,agpl-3.0,False,869,0,0.0,213.33,176.58,17,162,73,889,1.0,510,2011,0.0,0.44,mega,True,True,0,Low
+twbs/bootstrap,174702,78618,MDX,mit,False,5513,0,0.0,19.67,15.17,10,1388,104,22842,5.0,128,9515,0.0,0.58,mega,True,True,0,Low
+521xueweihan/HelloGitHub,174298,12706,Python,No license,False,3773,5,5.0,1.0,1.17,4,18,673,2710,2.0,1,17,1.0,0.16,mega,True,True,0,Low
+anthropics/skills,173151,20554,Python,No license,False,344,0,0.0,5.33,4.42,15,1408,336,50,0.0,865,52,0.0,0.02,mega,True,True,0,Low
+f/prompts.chat,168552,21723,HTML,other,False,1366,0,0.0,505.0,641.58,32,584,22,152,1.0,49,236,0.0,0.24,mega,True,True,0,Low
+AUTOMATIC1111/stable-diffusion-webui,164769,30560,Python,agpl-3.0,False,1471,184,766.0,0.0,0.0,11,588,2421,5491,1.0,82,1875,-1.0,0.0,mega,True,True,75,High
+huggingface/transformers,164716,34422,Python,apache-2.0,False,2864,0,0.0,277.33,296.67,42,3982,835,18565,1.0,1565,20363,0.0,0.2,mega,True,True,0,Low
+jlevy/the-art-of-command-line,162214,14833,None/Not detected,No license,False,4122,798,1147.0,0.0,0.0,24,159,126,138,1.0,131,317,51.0,0.08,mega,True,True,75,High
+Snailclimb/JavaGuide,158215,46156,JavaScript,apache-2.0,False,3039,0,0.0,32.67,36.92,18,649,17,1143,0.0,0,1275,1.0,0.78,mega,True,True,0,Low
+langgenius/dify,154209,24372,TypeScript,other,False,1239,0,0.0,699.33,499.75,27,1451,342,18468,0.0,702,13796,0.0,0.42,mega,True,True,0,Low
+langflow-ai/langflow,154071,9999,Python,mit,False,1301,0,0.0,308.67,205.5,10,407,235,3218,1.0,783,7455,0.0,0.26,mega,True,True,0,Low
+open-webui/open-webui,150690,22011,Python,other,False,1061,0,1.0,526.67,458.83,8,857,166,9417,0.0,60,4172,0.0,0.04,mega,True,True,0,Low
+msitarzewski/agency-agents,149640,24126,Shell,mit,False,324,6,6.0,27.0,33.33,30,109,63,88,0.0,93,226,14.0,0.1,mega,True,True,0,Low
+Genymobile/scrcpy,148729,13674,C,apache-2.0,False,3206,16,51.0,8.0,23.17,8,171,2802,3358,0.0,92,153,5.0,0.12,mega,True,True,0,Low
+airbnb/javascript,148141,26587,JavaScript,mit,False,5052,138,192.0,0.0,0.08,40,517,100,1316,0.0,64,822,90.0,0.08,mega,True,True,35,Medium
+langchain-ai/langchain,145500,24279,Python,mit,False,1416,0,0.0,206.67,218.92,25,3983,353,9768,0.0,87,17354,0.0,0.52,mega,True,True,0,Low
+anthropics/claude-code,143765,22989,Python,No license,False,556,0,0.0,31.33,44.83,6,384,14273,74458,0.0,722,162,-1.0,0.0,mega,True,True,0,Low
+x1xhlol/system-prompts-and-models-of-ai-tools,143293,34834,None/Not detected,gpl-3.0,False,545,21,21.0,7.0,17.75,8,30,90,121,7.0,71,52,0.0,0.12,mega,True,True,0,Low
+yangshun/tech-interview-handbook,142375,16791,TypeScript,mit,False,3711,26,26.0,1.67,2.0,48,179,36,92,29.0,0,494,0.0,0.58,mega,True,True,0,Low
+vercel/next.js,142074,31860,JavaScript,mit,False,3618,0,0.0,432.33,414.75,23,3893,1209,24098,0.0,2251,28461,0.0,0.2,mega,True,True,0,Low
+clash-verge-rev/clash-verge-rev,141718,10195,TypeScript,gpl-3.0,False,1015,0,0.0,106.67,135.75,14,166,390,5450,0.0,25,1029,0.0,0.56,mega,True,True,0,Low
+ytdl-org/youtube-dl,141082,10664,Python,unlicense,False,5784,194,280.0,0.0,3.58,1,796,3627,23206,0.0,499,1646,1.0,0.08,mega,True,True,60,Medium
+microsoft/PowerToys,138300,8546,C,mit,False,2680,0,0.0,120.67,108.58,35,675,7500,33897,0.0,142,7051,1.0,0.34,mega,True,True,0,Low
+iptv-org/iptv,137305,7963,TypeScript,unlicense,False,2848,0,0.0,189.0,181.17,11,396,5,35626,0.0,7,7002,0.0,0.54,mega,True,True,0,Low
+golang/go,137118,19341,Go,bsd-3-clause,False,4397,0,0.0,278.0,296.67,41,2429,9591,63617,0.0,531,1,-1.0,0.0,mega,True,True,0,Low
+ripienaar/free-for-dev,136319,14306,HTML,No license,False,4185,0,0.0,100.67,66.25,36,2003,0,0,-1.0,1,3109,0.0,0.34,mega,True,False,0,Low
+Shubhamsaboo/awesome-llm-apps,135716,19964,Python,apache-2.0,False,856,2,2.0,64.67,39.42,21,101,1,174,6.0,4,253,1.0,0.28,mega,True,True,0,Low
+labuladong/fucking-algorithm,135562,23567,Markdown,No license,False,2387,186,186.0,0.0,0.17,9,88,1,981,0.0,0,244,124.0,0.24,mega,True,True,35,Medium
+github/spec-kit,133004,11962,Python,mit,False,376,0,0.0,279.67,157.42,20,5346,136,1442,2.0,170,1500,0.0,0.46,mega,True,True,0,Low
+Comfy-Org/ComfyUI,131156,15447,Python,gpl-3.0,False,1324,0,0.0,158.67,165.75,20,340,4180,5070,0.0,600,3217,0.0,0.24,mega,True,True,0,Low
+garrytan/gstack,131067,19663,TypeScript,mit,False,174,0,0.0,26.0,32.17,4,132,310,510,3.0,527,321,0.0,0.16,mega,True,True,0,Low
+excalidraw/excalidraw,130994,15114,TypeScript,mit,False,2435,0,6.0,26.33,21.33,22,384,2285,2653,0.0,1145,3964,1.0,0.04,mega,True,True,0,Low
+farion1231/cc-switch,130683,8979,Rust,mit,False,393,0,0.0,171.33,185.67,18,227,1700,3241,0.0,884,472,0.0,0.08,mega,True,True,0,Low
+krahets/hello-algo,129762,15530,Java,other,False,1398,15,15.0,2.33,4.17,29,204,14,278,12.0,28,996,0.0,0.56,mega,True,True,0,Low
+Chalarangelo/30-seconds-of-code,128902,12483,JavaScript,cc-by-4.0,False,3198,14,14.0,4.33,3.5,2,305,0,300,0.0,0,856,5.0,0.6000000000000001,mega,True,True,0,Low
+ggml-org/llama.cpp,126755,22648,C++,mit,False,1271,0,0.0,417.33,367.0,57,1950,890,8941,0.0,1475,10003,0.0,0.2,mega,True,True,0,Low
+react/react-native,126479,25233,C++,mit,False,4253,0,0.0,244.67,260.42,26,2899,703,27123,0.0,462,1003,-1.0,0.0,mega,True,True,0,Low
+kubernetes/kubernetes,125938,43983,Go,apache-2.0,False,4470,0,0.0,783.33,703.58,30,4342,1859,47752,1.0,1162,65806,0.0,0.12,mega,True,True,0,Low
+nextlevelbuilder/ui-ux-pro-max-skill,124093,13279,Python,mit,False,276,0,0.0,34.67,19.83,54,89,41,145,2.0,45,154,0.0,0.8,mega,True,True,0,Low
+electron/electron,122850,17455,C++,mit,False,4891,0,0.0,127.33,112.25,20,1379,629,21227,2.0,128,27005,0.0,0.54,mega,True,True,0,Low
+shadcn-ui/ui,122779,10068,TypeScript,mit,False,1336,0,0.0,81.67,128.17,61,622,884,3377,0.0,1170,1475,0.0,0.26,mega,True,True,0,Low
+rustdesk/rustdesk,122415,18792,Rust,agpl-3.0,False,2164,0,0.0,67.67,54.75,28,426,87,4256,0.0,61,4237,0.0,0.4,mega,True,True,0,Low
+openai/codex,120896,18520,Rust,apache-2.0,False,507,0,0.0,1004.33,760.5,38,5961,14716,10760,0.0,170,10251,0.0,1.0,mega,True,True,0,Low
+DietrichGebert/ponytail,120662,6530,JavaScript,mit,False,82,25,25.0,70.0,17.5,39,71,77,213,0.0,121,174,-1.0,0.0,mega,True,True,0,Low
+nodejs/node,120259,36644,JavaScript,other,False,4297,0,0.0,381.0,272.25,48,3814,638,20196,0.0,575,13419,0.0,0.02,mega,True,True,0,Low
+harry0703/MoneyPrinterTurbo,119718,18330,Python,mit,False,905,0,0.0,77.0,29.0,18,102,7,784,0.0,10,240,0.0,0.48,mega,True,True,0,Low
+Hack-with-Github/Awesome-Hacking,119537,10708,None/Not detected,cc0-1.0,False,3807,38,38.0,0.67,1.25,28,33,0,0,-1.0,22,41,0.0,0.1,mega,True,False,10,Low
+microsoft/generative-ai-for-beginners,119000,62701,Jupyter Notebook,mit,False,1170,6,48.0,48.67,68.75,5,214,0,244,19.0,28,601,0.0,0.12,mega,True,True,0,Low
+justjavac/free-programming-books-zh_CN,118624,28258,None/Not detected,gpl-3.0,False,4685,35,35.0,8.0,2.0,47,133,0,0,-1.0,2,300,27.0,0.4,mega,True,False,0,Low
+rust-lang/rust,116973,15501,Rust,apache-2.0,False,5921,0,0.0,3206.67,2743.0,31,6841,11230,52509,0.0,1382,74004,0.0,0.06,mega,True,True,0,Low
+godotengine/godot,116528,26580,C++,mit,False,4623,0,0.0,673.0,765.58,30,3372,13446,50089,0.0,5381,43569,0.0,0.22,mega,True,True,0,Low
+2dust/v2rayN,115237,15823,C#,gpl-3.0,False,2591,0,0.0,64.0,56.25,18,127,17,7159,0.0,3,632,0.0,0.62,mega,True,True,0,Low
+mrdoob/three.js,115026,36517,JavaScript,mit,False,6006,0,0.0,177.0,170.08,19,2083,250,13517,0.0,133,16081,0.0,0.66,mega,True,True,0,Low
+Graphify-Labs/graphify,113785,11077,Python,apache-2.0,False,151,2,2.0,330.33,135.75,25,248,575,982,0.0,637,135,-1.0,0.0,mega,True,True,0,Low
+d3/d3,113596,22668,Shell,isc,False,5818,96,96.0,0.0,0.17,19,140,5,2242,0.0,15,495,0.0,0.34,mega,True,True,25,Medium
+VoltAgent/awesome-design-md,113436,12821,None/Not detected,mit,False,154,32,32.0,1.33,5.08,4,5,309,79,1.0,11,6,0.0,0.08,mega,True,True,0,Low
+router-for-me/CLIProxyAPI,49888,7622,Go,mit,False,427,0,1.0,329.67,293.67,8,220,88,2638,0.0,427,714,0.0,0.12,large,True,True,0,Low
+huginn/huginn,49879,4305,Ruby,mit,False,4924,3,3.0,28.0,26.17,4,230,612,1580,4.0,83,1189,0.0,0.76,large,True,True,0,Low
+roboflow/supervision,49843,4751,Python,mit,False,1373,0,0.0,68.0,47.75,33,233,40,509,5.0,40,1399,0.0,0.74,large,True,True,0,Low
+NARKOZ/hacker-scripts,49812,6653,JavaScript,No license,False,3937,1044,1487.0,0.0,0.0,33,48,38,68,57.0,33,63,18.0,0.22,large,True,True,75,High
+jakevdp/PythonDataScienceHandbook,49765,19099,Jupyter Notebook,mit,False,3674,797,1215.0,0.0,0.0,15,15,126,87,0.0,101,28,-1.0,0.0,large,True,True,75,High
+kelseyhightower/kubernetes-the-hard-way,49626,15845,None/Not detected,apache-2.0,False,3708,510,510.0,0.0,0.0,33,49,28,416,115.0,26,73,0.0,0.02,large,True,True,55,Medium
+pandas-dev/pandas,49621,20319,Python,bsd-3-clause,False,5853,0,0.0,237.0,201.17,26,3807,2531,25979,1.0,178,29527,0.0,0.30000000000000004,large,True,True,0,Low
+ClickHouse/ClickHouse,49607,8891,C++,apache-2.0,False,3744,0,0.0,11570.0,7187.0,23,2502,5194,25667,0.0,2178,70385,0.0,0.14,large,True,True,0,Low
+hashicorp/terraform,49603,10616,Go,other,False,4555,0,0.0,139.67,100.83,14,3157,1761,20005,1.0,160,13688,0.0,0.56,large,True,True,0,Low
+apple/container,49593,1778,Swift,apache-2.0,False,459,0,0.0,41.67,46.0,27,115,310,593,0.0,202,742,0.0,0.14,large,True,True,0,Low
+astral-sh/ruff,49441,2374,Rust,mit,False,1484,0,0.0,514.33,417.58,28,943,1712,6569,0.0,461,16225,0.0,0.30000000000000004,large,True,True,0,Low
+x64dbg/x64dbg,49377,2833,C++,other,False,4161,2,2.0,46.67,37.5,5,151,571,2153,0.0,5,831,0.0,0.66,large,True,True,0,Low
+Homebrew/brew,49362,11307,Ruby,bsd-2-clause,False,3832,0,0.0,751.33,487.25,16,1153,1,5292,0.0,12,15369,0.0,0.78,large,True,True,0,Low
+bigskysoftware/htmx,49321,1650,JavaScript,other,False,2332,0,8.0,5.0,9.42,23,455,626,1125,9.0,67,1201,0.0,0.46,large,True,True,0,Low
+GokuMohandas/Made-With-ML,49314,7740,Jupyter Notebook,mit,False,2858,181,181.0,0.0,0.08,1,3,18,59,1.0,7,147,0.0,0.26,large,True,True,60,Medium
+JuliaLang/julia,49057,5982,Julia,mit,False,5613,0,0.0,265.67,190.58,30,1615,3610,22557,0.0,996,27889,0.0,0.36,large,True,True,0,Low
+metabase/metabase,49056,6787,Clojure,other,False,4229,0,0.0,679.0,548.67,34,499,3780,22015,0.0,624,47291,0.0,0.34,large,True,True,0,Low
+tmux/tmux,48997,2866,C,isc,False,4108,0,0.0,300.33,122.33,3,17,14,4159,1.0,15,37,6.0,0.04,large,True,True,0,Low
+upscayl/upscayl,48929,2458,TypeScript,agpl-3.0,False,1494,13,158.0,0.0,0.75,25,48,50,1030,36.0,1,105,17.0,0.54,large,True,True,25,Medium
+akullpp/awesome-java,48911,7709,None/Not detected,cc-by-sa-4.0,False,4438,9,9.0,27.0,14.5,60,434,0,145,18.0,6,808,5.0,0.74,large,True,True,0,Low
+KRTirtho/spotube,48859,2269,Dart,other,False,2026,4,89.0,0.33,8.75,8,83,814,1311,11.0,41,261,3.0,0.24,large,True,True,10,Low
+HKUDS/CLI-Anything,48849,4533,Python,apache-2.0,False,177,12,12.0,26.33,73.75,34,111,49,83,12.0,37,198,9.0,0.44,large,True,True,0,Low
+nilbuild/design-patterns-for-humans,48829,5585,None/Not detected,No license,False,3484,639,639.0,0.0,0.0,42,46,5,47,0.0,11,50,1.0,0.32,large,True,True,55,Medium
+mudler/LocalAI,48826,4410,Go,mit,False,1263,0,0.0,392.67,265.67,11,243,92,1482,0.0,107,4368,0.0,0.48,large,True,True,0,Low
+DovAmir/awesome-design-patterns,48776,3301,None/Not detected,No license,False,3011,676,676.0,0.0,0.0,25,27,11,6,1.0,14,30,0.0,0.46,large,True,True,55,Medium
+moeru-ai/airi,48714,4828,TypeScript,mit,False,639,0,0.0,147.0,238.08,20,196,88,461,3.0,109,1304,0.0,0.62,large,True,True,0,Low
+algorithm-visualizer/algorithm-visualizer,48705,7580,JavaScript,mit,False,3762,815,1018.0,0.0,0.0,9,26,49,77,3.0,31,183,43.0,0.1,large,True,True,75,High
+Aider-AI/aider,48669,4915,Python,apache-2.0,False,1211,102,102.0,0.0,11.0,9,171,1360,3036,0.0,485,288,-1.0,0.0,large,True,True,25,Medium
+iamkun/dayjs,48663,2469,JavaScript,mit,False,3067,1,1.0,3.0,4.67,19,346,971,880,3.0,344,730,0.0,0.1,large,True,True,0,Low
+multica-ai/multica,48611,6262,Go,other,False,231,0,0.0,554.0,427.0,29,302,832,1592,0.0,621,3413,0.0,0.26,large,True,True,0,Low
+type-challenges/type-challenges,48489,5267,TypeScript,mit,False,2231,108,185.0,0.0,1.58,35,279,33198,4100,0.0,63,600,9.0,0.2,large,True,True,35,Medium
+slidevjs/slidev,48386,2169,TypeScript,mit,False,1957,8,8.0,21.0,26.42,42,377,186,1197,5.0,38,906,1.0,0.58,large,True,True,0,Low
+lukasz-madon/awesome-remote-job,48320,4785,None/Not detected,No license,False,4261,16,16.0,0.33,6.33,42,457,21,75,37.0,65,628,-1.0,0.0,large,True,True,10,Low
+brillout/awesome-react-components,48316,3835,None/Not detected,cc0-1.0,False,3721,218,218.0,0.0,2.75,34,260,17,45,6.0,70,343,-1.0,0.0,large,True,True,35,Medium
+elder-plinius/CL4R1T4S,48272,9916,None/Not detected,agpl-3.0,False,546,0,0.0,4.0,3.08,1,1,70,8,0.0,54,0,-1.0,0.0,large,True,True,25,Medium
+ReactiveX/RxJava,48208,7587,Java,apache-2.0,False,4984,2,2.0,55.33,28.5,6,316,11,3275,0.0,0,3595,0.0,0.92,large,True,True,0,Low
+microsoft/qlib,48205,7629,Python,mit,False,2210,41,41.0,0.33,2.33,33,10000,301,770,0.0,171,756,-1.0,0.0,large,True,True,10,Low
+pixijs/pixijs,48105,5065,TypeScript,mit,False,4971,0,6.0,15.33,19.0,28,540,290,5850,27.0,58,3892,5.0,0.54,large,True,True,0,Low
+calcom/cal.diy,48103,14991,TypeScript,mit,False,1989,0,0.0,14.67,208.5,48,971,1128,8271,1.0,296,13101,0.0,0.02,large,True,True,0,Low
+bevyengine/bevy,48008,4798,Rust,apache-2.0,False,2418,0,0.0,180.0,203.67,49,1546,2845,5835,4.0,594,8722,0.0,0.42,large,True,True,0,Low
+moment/moment,47913,6970,JavaScript,mit,False,5664,0,0.0,17.33,4.33,24,607,57,4108,291.0,18,763,0.0,0.72,large,True,True,0,Low
+karan/Projects,47907,10608,None/Not detected,mit,False,4807,748,2107.0,0.0,0.0,17,13,59,39,0.0,64,19,-1.0,0.0,large,True,True,75,High
+GitHubDaily/GitHubDaily,47805,4691,None/Not detected,No license,False,2802,244,244.0,0.0,0.42,4,4,794,197,0.0,8,3,9.0,0.12,large,True,True,35,Medium
+gogs/gogs,47791,5074,Go,mit,False,4585,7,7.0,14.0,19.0,9,505,942,4271,3.0,69,1961,0.0,0.4,large,True,True,0,Low
+discourse/discourse,47775,9009,Ruby,gpl-2.0,False,4981,0,0.0,623.33,576.08,22,992,0,0,-1.0,254,37542,0.0,0.54,large,True,False,0,Low
+kepano/obsidian-skills,47729,3421,None/Not detected,mit,False,242,85,85.0,1.0,3.83,14,16,30,20,1.0,37,16,36.0,0.1,large,True,True,0,Low
+minimaxir/big-list-of-naughty-strings,47706,2153,Python,mit,False,4042,867,1963.0,0.0,0.0,26,68,69,32,91.0,39,89,304.0,0.32,large,True,True,75,High
+HKUDS/nanobot,47649,8408,Python,mit,False,213,0,0.0,496.0,355.83,14,379,206,1272,1.0,552,1613,0.0,0.44,large,True,True,0,Low
+jeecgboot/JeecgBoot,47601,16178,Java,apache-2.0,False,2837,1,1.0,28.33,31.75,1,30,25,8492,0.0,16,133,1.0,0.06,large,True,True,0,Low
+oobabooga/textgen,47598,5983,Python,agpl-3.0,False,1351,15,15.0,0.33,64.17,5,384,804,3397,1.0,38,1273,0.0,0.24,large,True,True,10,Low
+prisma/orm,47591,2533,TypeScript,apache-2.0,False,2630,0,0.0,234.33,683.25,6,393,2481,9566,0.0,105,7103,0.0,0.42,large,True,True,0,Low
+KeygraphHQ/shannon,47586,5471,TypeScript,agpl-3.0,False,340,0,0.0,14.33,24.0,6,9,18,124,12.0,16,135,0.0,0.62,large,True,True,0,Low
+acmesh-official/acme.sh,47570,5660,Shell,gpl-3.0,False,3902,0,0.0,79.0,60.42,25,649,41,3679,0.0,61,1632,1.0,0.44,large,True,True,0,Low
+nvm-windows/nvm,47533,3883,Inno Setup,No license,False,4364,0,0.0,10.33,2.58,3,2,2,972,39.0,0,111,1.0,0.16,large,True,True,0,Low
+dypsilon/frontend-dev-bookmarks,47457,5139,None/Not detected,No license,False,4819,834,3085.0,0.0,0.0,5,101,35,82,79.0,98,129,-1.0,0.0,large,True,True,75,High
+slab/quill,47322,3665,TypeScript,bsd-3-clause,False,5146,404,404.0,0.0,0.0,11,144,578,3270,36.0,80,382,0.0,0.06,large,True,True,55,Medium
+exo-explore/exo,47213,3489,Python,apache-2.0,False,799,7,7.0,1.0,52.5,19,100,197,740,24.0,164,771,26.0,0.02,large,True,True,0,Low
+typescript-cheatsheets/react,47097,4275,TypeScript,mit,False,3014,95,95.0,0.0,1.17,52,194,0,225,1.0,0,387,0.0,0.54,large,True,True,25,Medium
+QuantumNous/new-api,47083,11225,Go,agpl-3.0,False,1026,0,0.0,143.0,187.67,29,291,715,2730,0.0,602,1305,0.0,0.28,large,True,True,0,Low
+SimplifyJobs/Summer2027-Internships,47072,3241,Python,No license,False,2292,0,0.0,2422.33,2677.0,2,829,96,7568,8.0,7,1675,0.0,0.16,large,True,True,0,Low
+lysine-dev/okhttp,47059,9292,Kotlin,apache-2.0,False,5153,0,0.0,54.67,34.83,10,289,92,4215,0.0,51,4183,0.0,0.72,large,True,True,0,Low
+gedoor/legado,47057,5550,Kotlin,No license,False,2660,98,98.0,0.0,0.08,0,1,0,0,-1.0,0,0,-1.0,-1.0,large,False,False,50,Medium
+hiroi-sora/Umi-OCR,47040,4608,Python,mit,False,1619,285,285.0,0.0,0.17,5,25,353,518,0.0,5,58,1.0,0.8,large,True,True,35,Medium
+v2ray/v2ray-core,46939,8810,Go,mit,False,4016,2,1285.0,0.0,0.0,11,86,3,2597,125.0,13,203,-1.0,0.0,large,True,True,75,High
+serverless/serverless,46920,5720,JavaScript,other,False,4152,1,1.0,51.33,36.42,5,1017,1109,5526,7.0,107,5155,0.0,0.9,large,True,True,0,Low
+abhigyanpatwari/GitNexus,46878,5146,TypeScript,other,False,395,0,0.0,242.67,158.17,19,183,269,941,1.0,54,1324,0.0,0.68,large,True,True,0,Low
+Asabeneh/30-Days-Of-JavaScript,46764,10465,JavaScript,No license,False,2444,6,6.0,0.67,1.42,13,40,118,62,0.0,251,101,0.0,0.06,large,True,True,10,Low
+zhayujie/CowAgent,46762,10331,Python,mit,False,1487,0,0.0,196.0,100.58,4,127,20,2177,1.0,23,420,0.0,0.52,large,True,True,0,Low
+usebruno/bruno,46706,2836,JavaScript,mit,False,1435,0,0.0,183.67,136.25,20,470,1312,3104,0.0,508,2743,0.0,0.56,large,True,True,0,Low
+apache/airflow,46692,17723,Python,apache-2.0,False,4159,0,0.0,672.0,675.33,52,4049,1136,13970,0.0,951,39973,0.0,0.04,large,True,True,0,Low
+microsoft/monaco-editor,46642,4116,JavaScript,mit,False,3738,0,5.0,14.33,18.75,6,315,774,3244,7.0,73,672,0.0,0.66,large,True,True,0,Low
+DavidHDev/react-bits,46628,2240,JavaScript,other,False,757,1,1.0,61.67,55.83,14,122,1,533,0.0,1,218,0.0,0.7000000000000001,large,True,True,0,Low
+coreyhaines31/marketingskills,46568,7261,JavaScript,mit,False,229,0,0.0,53.33,39.08,1,23,40,138,0.0,67,225,0.0,0.76,large,True,True,0,Low
+9001/copyparty,46474,1895,Python,mit,False,2655,0,0.0,42.33,66.25,9,125,224,787,0.0,29,216,7.0,0.64,large,True,True,0,Low
+LeCoupa/awesome-cheatsheets,46419,6695,JavaScript,mit,False,3219,142,142.0,0.0,1.17,32,138,41,61,8.0,95,175,22.0,0.18,large,True,True,25,Medium
+docker/awesome-compose,46213,8303,HTML,cc0-1.0,False,2393,0,78.0,1.33,0.33,30,89,106,47,2.0,312,153,0.0,0.02,large,True,True,0,Low
+iina/iina,46180,2911,Swift,gpl-3.0,False,3544,0,0.0,63.33,36.5,18,173,1827,2696,1.0,91,1036,1.0,0.6000000000000001,large,True,True,0,Low
+siyuan-note/siyuan,46122,2978,TypeScript,agpl-3.0,False,2194,0,3.0,1401.33,652.17,3,106,79,17725,0.0,2,956,0.0,0.6000000000000001,large,True,True,0,Low
+cli/cli,46110,8950,Go,mit,False,2525,0,0.0,204.33,156.83,7,623,1008,5366,0.0,60,3189,0.0,0.44,large,True,True,0,Low
+jgm/pandoc,46105,3953,Haskell,gpl-2.0,False,6009,0,0.0,64.0,68.08,10,581,955,7392,0.0,78,1804,0.0,0.76,large,True,True,0,Low
+ziishaned/learn-regex,46092,6127,None/Not detected,mit,False,3329,372,372.0,0.0,0.0,25,101,51,36,40.0,14,132,155.0,0.6000000000000001,large,True,True,55,Medium
+RocketChat/Rocket.Chat,46066,13841,TypeScript,other,False,4124,0,0.0,195.0,183.08,21,971,2501,14621,0.0,1511,17006,0.0,0.32,large,True,True,0,Low
+helix-editor/helix,46059,3716,Rust,mpl-2.0,False,2284,0,40.0,59.33,69.92,47,1289,1095,4857,1.0,540,4875,-1.0,0.0,large,True,True,0,Low
+zhongyang219/TrafficMonitor,45995,3779,C++,other,False,3321,2,2.0,14.67,7.58,14,55,1334,741,10.0,14,79,38.0,0.38,large,True,True,0,Low
+DIYgod/RSSHub,45983,10185,TypeScript,agpl-3.0,False,3074,0,0.0,225.0,212.0,13,1388,311,6108,0.0,41,13254,0.0,0.68,large,True,True,0,Low
+coqui-ai/TTS,45980,6148,Python,mpl-2.0,False,2295,747,934.0,0.0,0.0,14,143,2,1240,41.0,0,467,-1.0,0.0,large,True,True,75,High
+milvus-io/milvus,45931,4220,Go,apache-2.0,False,2543,0,0.0,238.67,204.5,31,341,938,15834,2.0,384,27186,0.0,0.2,large,True,True,0,Low
+karanpratapsingh/system-design,45906,6005,None/Not detected,other,False,1478,56,56.0,0.33,0.33,11,13,3,22,14.0,1,14,1.0,0.33,large,True,True,10,Low
+sickn33/agentic-awesome-skills,45855,6705,Python,mit,False,230,0,0.0,271.67,219.58,22,332,1,167,0.0,2,865,0.0,0.86,large,True,True,0,Low
+android/architecture-samples,45814,11855,Kotlin,apache-2.0,False,3861,0,412.0,0.0,0.0,9,70,149,350,2.0,75,233,0.0,0.18,large,True,True,55,Medium
+MHSanaei/3x-ui,45733,10603,Go,gpl-3.0,False,1300,8,8.0,244.67,123.92,28,270,142,4196,0.0,32,1058,1.0,0.34,large,True,True,0,Low
+google/zx,45719,1291,JavaScript,apache-2.0,False,1946,19,19.0,1.33,5.75,14,87,19,501,0.0,37,617,0.0,0.18,large,True,True,0,Low
+streamlit/streamlit,45661,4371,Python,apache-2.0,False,2566,0,0.0,235.33,191.92,7,358,988,5096,1.0,208,8499,0.0,0.4,large,True,True,0,Low
+ColorlibHQ/AdminLTE,45567,18166,Astro,mit,False,4634,0,0.0,35.67,18.25,3,110,1,2934,6.0,0,1588,0.0,0.42,large,True,True,0,Low
+Leaflet/Leaflet,45551,6161,JavaScript,bsd-2-clause,False,5823,0,36.0,12.33,17.67,21,878,401,4965,0.0,166,3327,0.0,0.28,large,True,True,0,Low
+jestjs/jest,45470,6731,TypeScript,mit,False,4649,0,0.0,39.33,24.58,22,1620,139,8088,28.0,49,5987,0.0,0.68,large,True,True,0,Low
+Imbad0202/academic-research-skills,45355,3573,Python,other,False,188,0,0.0,91.67,62.67,5,24,19,306,0.0,1,423,0.0,0.9400000000000001,large,True,True,0,Low
+fastapi/full-stack-fastapi-template,45306,9004,TypeScript,mit,False,2747,0,0.0,66.33,54.67,10,85,0,441,7.0,9,740,0.0,0.72,large,True,True,0,Low
+isocpp/CppCoreGuidelines,45289,5557,CSS,other,False,4031,26,26.0,2.0,2.42,37,339,237,1001,17.0,9,830,15.0,0.56,large,True,True,0,Low
+grpc/grpc,45283,11371,C++,apache-2.0,False,4285,0,0.0,133.67,130.75,37,1011,643,11377,7.0,706,20892,0.0,0.14,large,True,True,0,Low
+petehunt/webpack-howto,10000,679,JavaScript,No license,False,4430,3309,3795.0,0.0,0.0,19,18,30,16,1.0,21,19,4.0,0.30000000000000004,mid,True,True,75,High
+typicode/hotel,10000,440,JavaScript,mit,False,4116,1044,1044.0,0.0,0.0,8,34,92,140,1.0,30,68,3.0,0.14,mid,True,True,75,High
+Theano/Theano,9999,2465,Python,other,False,5502,961,961.0,0.0,0.0,21,346,596,2088,3.0,103,3552,0.0,0.58,mid,True,True,75,High
+php-fig/container,9994,54,PHP,mit,False,3669,212,1076.0,0.0,0.0,24,33,3,19,6.0,3,17,6.0,0.5700000000000001,mid,True,True,75,High
+r-lyeh/single_file_libs,9992,650,None/Not detected,No license,False,3616,14,14.0,3.33,3.58,28,120,6,142,661.0,1,147,0.0,0.86,mid,True,True,0,Low
+luanfujun/deep-photo-styletransfer,9989,1375,MATLAB,No license,False,3451,1857,3337.0,0.0,0.0,5,7,31,33,0.0,3,8,0.0,0.53,mid,True,True,75,High
+CollabCodeTech/backend-challenges,9988,679,None/Not detected,mit,False,2612,210,210.0,0.0,0.67,24,25,0,16,132.0,0,35,15.0,0.8300000000000001,mid,True,True,35,Medium
+gcla/termshark,9987,439,Go,mit,False,2692,855,1400.0,0.0,0.0,3,14,40,96,55.0,11,24,0.0,0.65,mid,True,True,75,High
+MrXujiang/h5-Dooring,9986,1827,JavaScript,gpl-3.0,False,2202,43,43.0,0.67,0.58,5,12,34,62,11.0,5,65,0.0,0.8200000000000001,mid,True,True,10,Low
+sktime/sktime,9986,2318,Python,bsd-3-clause,False,2856,0,0.0,113.67,61.5,59,643,1410,2095,1.0,1001,4807,0.0,0.38,mid,True,True,0,Low
+cncf/landscape,9985,2191,None/Not detected,apache-2.0,False,3588,0,5.0,56.33,38.33,19,988,27,711,11.0,75,3694,1.0,0.06,mid,True,True,0,Low
+pagekit/vue-resource,9982,1562,JavaScript,mit,True,4589,1363,1906.0,0.0,0.0,6,22,83,453,5.0,30,30,9.0,0.06,mid,True,True,100,High
+greatfrontend/top-javascript-interview-questions,9980,524,MDX,No license,False,814,17,17.0,3.33,2.92,28,30,0,0,-1.0,0,0,-1.0,-1.0,mid,False,False,0,Low
+s3fs-fuse/s3fs-fuse,9979,1076,C++,gpl-2.0,False,4666,3,3.0,22.33,15.58,7,116,301,1020,5.0,12,1501,5.0,0.86,mid,True,True,0,Low
+prometheus-operator/prometheus-operator,9978,3870,Go,apache-2.0,False,3631,0,0.0,73.67,91.0,13,658,195,2960,12.0,119,4306,0.0,0.54,mid,True,True,0,Low
+yzhao062/pyod,9978,1503,Python,bsd-2-clause,False,3255,14,14.0,16.0,17.17,10,62,186,184,39.0,52,228,2.0,0.56,mid,True,True,0,Low
+HMCL-dev/HMCL,9976,928,Java,gpl-3.0,False,4090,0,0.0,90.0,91.17,12,132,439,2866,0.0,87,2597,1.0,0.62,mid,True,True,0,Low
+daliansky/Hackintosh,9974,1156,Shell,mit,False,2788,5,5.0,8.67,2.92,18,129,0,0,-1.0,0,214,12.0,0.84,mid,True,False,0,Low
+ImageOptim/ImageOptim,9973,477,HTML,gpl-2.0,False,4959,50,50.0,0.67,0.42,9,32,201,192,2.0,12,39,0.0,0.62,mid,True,True,10,Low
+slavingia/skills,9972,1031,None/Not detected,No license,False,162,141,141.0,0.0,0.92,6,7,0,0,-1.0,3,6,0.0,0.24,mid,True,False,25,Medium
+StylishThemes/GitHub-Dark,9971,641,CSS,bsd-2-clause,False,5719,0,0.0,37.67,28.58,3,77,48,1036,6.0,6,205,0.0,0.62,mid,True,True,0,Low
+microsoft/vscode-copilot-chat,9971,2010,TypeScript,mit,True,448,105,105.0,0.0,250.58,28,146,8,7,0.0,244,4064,0.0,0.02,mid,True,True,100,High
+presenton/presenton,9970,1546,TypeScript,apache-2.0,False,479,0,0.0,376.0,151.42,3,20,34,273,3.0,8,472,0.0,0.92,mid,True,True,0,Low
+XIU2/UserScript,9969,700,JavaScript,gpl-3.0,False,2163,14,14.0,4.67,11.5,4,24,56,482,0.0,8,32,0.0,0.44,mid,True,True,0,Low
+OpenRLHF/OpenRLHF,9969,1011,Python,apache-2.0,False,1130,20,20.0,5.0,10.83,15,93,305,456,3.0,59,359,0.0,0.14,mid,True,True,0,Low
+keystonejs/keystone,9967,1261,TypeScript,mit,False,3072,0,0.0,51.0,20.0,7,271,90,1624,1.0,47,6394,0.0,0.84,mid,True,True,0,Low
+ValveSoftware/source-sdk-2013,9964,3022,C++,other,False,4815,1,1.0,10.67,10.83,47,121,382,392,0.0,686,143,4.0,0.02,mid,True,True,0,Low
+facebookresearch/pytorch3d,9962,1464,Python,other,False,2504,5,5.0,4.67,4.17,26,139,275,1417,1.0,37,2,-1.0,0.0,mid,True,True,0,Low
+google-deepmind/sonnet,9962,1304,Python,apache-2.0,False,3439,56,56.0,0.33,0.33,32,69,32,161,1.0,11,43,0.0,0.44,mid,True,True,10,Low
+thewhiteh4t/seeker,9960,2286,CSS,mit,False,2970,75,75.0,0.67,0.17,6,13,13,425,13.0,12,17,8.0,0.26,mid,True,True,10,Low
+Stellarium/stellarium,9959,1045,C++,gpl-2.0,False,4525,0,0.0,423.33,475.75,7,203,388,2279,1.0,29,919,0.0,0.68,mid,True,True,0,Low
+cloudflare/moltworker,9958,1736,TypeScript,apache-2.0,False,218,116,156.0,0.0,16.08,2,76,62,68,36.0,33,59,0.0,0.2,mid,True,True,25,Medium
+BYVoid/OpenCC,9954,1062,C++,apache-2.0,False,5892,7,7.0,82.0,43.08,11,123,44,611,1.0,6,679,0.0,0.48,mid,True,True,0,Low
+lib/pq,9952,970,Go,other,False,5286,12,12.0,2.67,11.67,16,153,39,773,0.0,13,323,0.0,0.62,mid,True,True,0,Low
+gao-sun/eul,9949,377,Swift,mit,False,2259,829,1699.0,0.0,0.0,13,35,68,96,25.0,9,85,1.0,0.7000000000000001,mid,True,True,75,High
+espnet/espnet,9948,2426,Python,apache-2.0,False,3185,0,0.0,196.67,211.58,5,300,16,2475,76.0,40,3253,0.0,0.8,mid,True,True,0,Low
+alexanderepstein/Bash-Snippets,9947,841,Shell,mit,False,3354,850,850.0,0.0,0.0,22,46,9,111,32.0,5,96,3.0,0.62,mid,True,True,75,High
+open-mmlab/mmsegmentation,9939,2854,Python,apache-2.0,False,2271,750,894.0,0.0,0.0,33,167,773,1673,7.0,96,966,2.0,0.02,mid,True,True,75,High
+intel/intel-one-mono,9937,325,None/Not detected,ofl-1.1,False,1239,358,358.0,0.0,0.08,7,20,22,29,11.0,0,8,0.0,0.5700000000000001,mid,True,True,35,Medium
+aikorea/awesome-rl,9937,1946,None/Not detected,No license,False,4041,1195,1401.0,0.0,0.0,32,52,4,8,22.0,3,65,182.0,0.66,mid,True,True,75,High
+playcanvas/supersplat,9936,1117,TypeScript,mit,False,1048,0,0.0,27.33,29.83,5,34,95,331,4.0,12,496,0.0,0.92,mid,True,True,0,Low
+oblador/react-native-animatable,9935,694,JavaScript,mit,False,3972,1041,1041.0,0.0,0.0,26,30,163,142,1.0,9,37,0.0,0.06,mid,True,True,75,High
+lk-geimfari/awesomo,9932,688,Go,cc0-1.0,False,3549,89,89.0,0.33,0.08,3,4,2,37,3.0,9,357,0.0,0.5,mid,True,True,10,Low
+xuchengsheng/spring-reading,9931,1264,Java,mit,False,1083,765,789.0,0.0,0.0,2,2,30,2,3.0,6,1,0.0,0.09,mid,True,True,75,High
+aksakalli/gtop,9930,336,JavaScript,mit,False,3310,299,299.0,0.0,0.08,10,9,23,73,74.0,17,20,0.0,0.41000000000000003,mid,True,True,35,Medium
+Yu9191/wloc,9924,2154,JavaScript,agpl-3.0,False,70,11,11.0,15.0,3.75,3,3,81,11,0.0,4,11,0.0,0.46,mid,True,True,0,Low
+AnInsomniacy/motrix-next,9922,308,TypeScript,mit,False,182,3,3.0,62.33,114.75,1,7,113,352,1.0,11,6,0.0,0.17,mid,True,True,0,Low
+lyhue1991/eat_tensorflow2_in_30_days,9919,2421,Python,apache-2.0,False,2391,1441,1441.0,0.0,0.0,3,5,25,43,1.0,3,17,0.0,0.53,mid,True,True,75,High
+LaurieWired/GhidraMCP,9919,1023,Java,apache-2.0,False,528,436,436.0,0.0,0.0,10,9,49,37,0.0,33,10,-1.0,0.0,mid,True,True,55,Medium
+rgcr/m-cli,9917,318,Shell,mit,False,3707,91,91.0,0.0,1.67,3,48,6,93,413.0,4,86,24.0,0.66,mid,True,True,25,Medium
+gitkraken/vscode-gitlens,9914,1793,TypeScript,other,False,3676,0,0.0,456.0,255.92,6,129,911,3016,0.0,58,796,0.0,0.84,mid,True,True,0,Low
+brightmart/nlp_chinese_corpus,9911,1552,None/Not detected,mit,False,2762,208,208.0,0.0,0.17,1,1,22,23,25.0,1,1,0.0,0.5,mid,True,True,60,Medium
+google/go-cloud,9911,854,Go,apache-2.0,False,3086,0,1.0,15.33,8.92,23,177,1,1268,1.0,3,2159,0.0,0.86,mid,True,True,0,Low
+pkgxdev/pkgx,9910,1390,Rust,apache-2.0,False,1746,2,7.0,5.33,11.42,3,64,31,433,1.0,1,459,0.0,0.92,mid,True,True,0,Low
+quasar/Quasar,9909,2655,C#,mit,True,4438,916,1114.0,0.0,0.0,3,15,137,785,0.0,0,169,2.0,0.14,mid,True,True,100,High
+happydog-intj/JsBridge,9909,2003,Java,No license,False,4206,446,446.0,0.0,0.0,19,21,143,96,406.0,2,32,90.0,0.78,mid,True,True,55,Medium
+DevExpress/testcafe,9905,676,JavaScript,mit,False,4152,13,57.0,2.0,3.42,6,119,12,4864,14.0,23,3070,21.0,0.48,mid,True,True,0,Low
+egametang/ET,9904,3236,C#,other,False,5910,6,6.0,0.67,29.33,2,78,87,126,0.0,0,268,0.0,0.52,mid,True,True,10,Low
+audreyfeldroy/favicon-cheat-sheet,9903,397,None/Not detected,mit,False,4775,223,223.0,0.0,1.25,23,23,3,38,4053.0,0,24,92.0,0.59,mid,True,True,35,Medium
+Flipper-XFW/Xtreme-Firmware,9902,713,C,gpl-3.0,True,1353,652,652.0,0.0,0.0,15,104,64,344,0.0,0,137,0.0,0.56,mid,True,True,100,High
+stanzhai/be-a-professional-programmer,9900,2089,None/Not detected,mit,False,4458,1289,2030.0,0.0,0.0,14,16,8,14,0.0,3,17,0.0,0.74,mid,True,True,75,High
+vercel/serve,9900,704,TypeScript,mit,False,3780,63,77.0,0.67,1.08,36,160,133,312,18.0,16,292,0.0,0.36,mid,True,True,10,Low
+mattdelacdev/WOW,9900,3961,JavaScript,No license,False,4630,800,2722.0,0.0,0.0,15,24,169,118,79.0,22,45,0.0,0.16,mid,True,True,75,High
+Openwrt-Passwall/openwrt-passwall,9898,2972,Lua,gpl-3.0,False,2887,0,0.0,61.0,62.33,5,86,1,1897,0.0,0,771,0.0,0.8,mid,True,True,0,Low
+deniscerri/ytdlnis,9896,443,Kotlin,gpl-3.0,False,1558,1,1.0,87.33,80.83,19,271,69,675,0.0,8,430,2.0,0.68,mid,True,True,0,Low
+boto/boto3,9894,1988,Python,apache-2.0,False,4351,0,0.0,71.33,70.58,2,161,151,3481,11.0,40,711,0.0,0.7000000000000001,mid,True,True,0,Low
+aalhour/awesome-compilers,9889,703,None/Not detected,other,False,3702,828,1392.0,0.0,0.0,26,31,22,8,1.0,38,45,251.0,0.06,mid,True,True,75,High
+AGWA/git-crypt,9888,542,C++,gpl-3.0,False,5005,342,342.0,0.0,0.92,9,16,103,119,4.0,25,1,-1.0,0.0,mid,True,True,35,Medium
+OpenCTI-Platform/opencti,9886,1443,TypeScript,other,False,2815,0,0.0,250.0,253.17,24,215,1948,7279,0.0,195,7411,0.0,0.6000000000000001,mid,True,True,0,Low
+wasabeef/glide-transformations,9883,1399,Java,apache-2.0,False,4254,1638,1941.0,0.0,0.0,11,15,53,105,0.0,5,34,0.0,0.72,mid,True,True,75,High
+aphyr/distsys-class,9881,719,None/Not detected,No license,False,3805,532,532.0,0.0,0.0,4,4,0,5,317.0,6,3,78.0,0.23,mid,True,True,55,Medium
+ValveSoftware/GameNetworkingSockets,9880,744,C++,bsd-3-clause,False,3086,6,6.0,8.33,25.25,6,69,25,251,257.0,6,82,15.0,0.5,mid,True,True,0,Low
+SeaQL/sea-orm,9880,726,Rust,apache-2.0,False,2031,8,8.0,43.67,60.67,12,302,167,914,2.0,68,903,0.0,0.64,mid,True,True,0,Low
+senchalabs/connect,9879,1081,JavaScript,mit,False,5942,704,704.0,0.0,0.0,6,136,9,703,0.0,5,179,6.0,0.18,mid,True,True,55,Medium
+microsoft/computervision-recipes,9878,1210,Jupyter Notebook,mit,False,2759,928,1401.0,0.0,0.0,18,43,105,198,248.0,8,341,0.0,0.6000000000000001,mid,True,True,75,High
+geerlingguy/ansible-for-devops,9878,3791,Python,mit,False,4513,465,465.0,0.0,0.0,15,29,113,381,75.0,6,46,126.0,0.26,mid,True,True,55,Medium
+max-mapper/art-of-node,9878,841,JavaScript,other,False,4912,2220,3625.0,0.0,0.0,17,33,6,19,1.0,9,46,11.0,0.62,mid,True,True,75,High
+ThreeDotsLabs/watermill,9876,505,Go,mit,False,2854,7,7.0,0.67,2.42,38,87,77,183,41.0,3,315,2.0,0.4,mid,True,True,10,Low
+hyperdxio/hyperdx,9872,461,TypeScript,mit,False,1085,0,0.0,147.33,112.5,15,85,123,362,3.0,69,2167,0.0,0.66,mid,True,True,0,Low
+kubernetes/client-go,9871,3036,Go,apache-2.0,False,3660,0,0.0,15.0,53.17,35,1124,0,0,-1.0,0,0,-1.0,-1.0,mid,False,False,0,Low
+dontbesilent2025/dbskill,9869,1134,JavaScript,other,False,165,0,0.0,21.0,9.58,3,4,1,19,25.0,0,5,0.0,0.33,mid,True,True,0,Low
+forkingdog/UITableView-FDTemplateLayoutCell,9865,1986,Objective-C,mit,False,4156,1640,3209.0,0.0,0.0,5,11,116,264,50.0,13,12,0.0,0.31,mid,True,True,75,High
+sqlfluff/sqlfluff,9864,1121,Python,mit,False,2861,0,0.0,95.0,59.92,44,604,278,3472,2.0,50,4222,3.0,0.38,mid,True,True,0,Low
+evolus/pencil,9863,791,JavaScript,gpl-2.0,False,4458,92,92.0,0.0,0.92,7,25,484,191,2.0,50,45,18.0,0.02,mid,True,True,25,Medium
+StartBootstrap/startbootstrap-sb-admin-2,9862,5680,HTML,mit,False,4330,791,1952.0,0.0,0.0,15,23,71,185,0.0,52,66,-1.0,0.0,mid,True,True,75,High
+paascloud/paascloud-master,9859,4215,Java,apache-2.0,False,3091,1059,2807.0,0.0,0.0,3,6,83,42,1.0,22,3,0.0,0.06,mid,True,True,75,High
+gomodule/redigo,9857,1233,Go,apache-2.0,False,5254,303,303.0,0.0,0.17,44,79,15,443,1.0,10,148,0.0,0.66,mid,True,True,35,Medium
+googlesamples/easypermissions,9856,1458,Java,apache-2.0,True,3906,1127,1955.0,0.0,0.0,13,37,36,205,0.0,4,90,0.0,0.74,mid,True,True,100,High
+xuebinqin/U-2-Net,9854,1620,Python,apache-2.0,False,2311,798,963.0,0.0,0.0,1,10,228,123,5.0,20,11,30.0,0.2,mid,True,True,100,High
+alexjc/neural-doodle,9851,891,Python,agpl-3.0,True,3832,2161,3763.0,0.0,0.0,3,3,0,0,-1.0,3,5,0.0,0.33,mid,True,False,100,High
+purifycss/purifycss,9849,379,JavaScript,mit,False,4117,2146,3090.0,0.0,0.0,10,19,70,54,3.0,10,75,0.0,0.46,mid,True,True,75,High
+goofychris/art-template,9848,2643,JavaScript,mit,False,5204,51,51.0,0.33,0.08,6,18,89,519,1.0,4,22,0.0,0.44,mid,True,True,10,Low
+aFarkas/html5shiv,9848,2503,JavaScript,No license,False,5681,786,2044.0,0.0,0.0,24,30,56,104,0.0,27,43,0.0,0.26,mid,True,True,75,High
+VirusTotal/yara,9846,1584,C,bsd-3-clause,False,5017,8,8.0,12.67,4.92,26,268,150,956,1.0,20,863,3.0,0.86,mid,True,True,0,Low
+StarTrail-org/PixelRAG,9846,845,Python,apache-2.0,False,96,3,3.0,25.67,7.92,23,27,9,24,9.0,8,94,1.0,0.7000000000000001,mid,True,True,0,Low
+johnthagen/min-sized-rust,9845,247,Rust,mit,False,2823,334,334.0,0.0,0.17,11,11,11,31,1.0,1,35,0.0,0.85,mid,True,True,35,Medium
+Humanizr/Humanizer,9844,1064,C#,other,False,5235,1,27.0,95.33,36.08,1,256,2,658,89.0,6,920,0.0,0.76,mid,True,True,0,Low
+udlbook/udlbook,9844,2305,Jupyter Notebook,other,False,1492,45,189.0,0.0,3.25,8,23,10,229,14.0,6,45,12.0,0.26,mid,True,True,35,Medium
+kanboard/kanboard,9843,1996,PHP,mit,False,4602,4,4.0,12.0,9.75,9,361,159,3623,16.0,0,1486,0.0,0.92,mid,True,True,0,Low
+openhpc/ohpc,1000,206,C,apache-2.0,False,3991,21,22.0,22.0,39.5,9,71,8,1130,15.0,7,1283,0.0,0.8200000000000001,small,True,True,0,Low
+AAkira/Napier,1000,42,Kotlin,apache-2.0,False,2767,56,971.0,0.0,0.0,6,10,20,40,7.0,11,62,0.0,0.74,small,True,True,75,High
+BloothOfYouth/Computer-Network-Notes,1000,251,None/Not detected,No license,False,2138,1475,1475.0,0.0,0.0,1,1,2,0,-1.0,0,0,-1.0,-1.0,small,False,True,100,High
+arnesson/cordova-plugin-firebase,1000,1548,Objective-C,mit,False,3733,785,948.0,0.0,0.0,10,71,226,729,0.0,24,117,21.0,0.14,small,True,True,75,High
+rakshasa/libtorrent,1000,247,C++,gpl-2.0,False,5448,0,0.0,45.0,25.67,10,47,41,180,4.0,7,538,0.0,0.9,small,True,True,0,Low
+ant-design/ant-design-pro-layout,1000,233,TypeScript,mit,True,2707,2217,2228.0,0.0,0.0,13,250,30,345,3.0,1,139,0.0,0.72,small,True,True,100,High
+newrelic/node-newrelic,1000,423,JavaScript,apache-2.0,False,4989,0,0.0,45.0,47.67,8,156,55,1502,2.0,7,2282,0.0,0.8,small,True,True,0,Low
+sebpiq/WebPd,1000,90,TypeScript,lgpl-3.0,False,5350,61,61.0,0.67,0.42,3,10,9,119,47.0,0,14,1.0,0.7000000000000001,small,True,True,10,Low
+Jinxiansen/JHUD,1000,152,Objective-C,mit,True,3704,2983,2983.0,0.0,0.0,2,2,1,9,8.0,0,1,0.0,1.0,small,True,True,100,High
+davidedc/Algebrite,1000,65,TypeScript,mit,False,3814,112,1625.0,0.0,0.0,4,7,84,56,165.0,6,27,0.0,0.73,small,True,True,75,High
+instant-solutions/ISTimeline,1000,79,Swift,apache-2.0,False,3728,2066,2066.0,0.0,0.0,2,2,8,7,2.0,1,2,324.0,0.5,small,True,True,75,High
+AndrewZhe/lawyer-llama,1000,132,Python,apache-2.0,False,1239,735,735.0,0.0,0.0,4,9,38,55,17.0,0,1,0.0,1.0,small,True,True,75,High
+php-memcached-dev/php-memcached,1000,326,C,other,False,5808,19,92.0,0.0,0.42,19,77,46,283,7.0,5,193,6.0,0.8,small,True,True,25,Medium
+xb2016/kratos-pjax,1000,193,PHP,gpl-3.0,False,3047,233,233.0,0.0,0.5,8,9,0,0,-1.0,0,9,0.0,0.56,small,True,False,35,Medium
+oprypin/nightly.link,1000,40,Crystal,agpl-3.0,False,2108,45,45.0,0.67,0.5,5,4,17,59,0.0,3,7,1.0,0.58,small,True,True,10,Low
+evansm7/vftool,1000,73,Objective-C,mit,False,2106,857,2091.0,0.0,0.0,1,1,16,7,3.0,5,0,-1.0,0.0,small,True,True,100,High
+tomasiser/vim-code-dark,1000,175,Vim Script,mit,False,3480,833,833.0,0.0,0.0,19,32,14,46,51.0,1,59,18.0,0.78,small,True,True,75,High
+SquirrelCorporation/SquirrelServersManager,1000,35,TypeScript,agpl-3.0,True,922,282,313.0,0.0,0.67,3,7,35,111,6.0,25,633,18.0,0.14,small,True,True,100,High
+llf007/public-apis-cn,1000,86,None/Not detected,apache-2.0,False,825,15,101.0,0.0,1.58,5,5,0,2,57.0,1,5,2.0,0.71,small,True,True,25,Medium
+mProjectsCode/obsidian-meta-bind-plugin,1000,85,TypeScript,gpl-3.0,False,1547,11,11.0,5.67,5.67,3,7,76,449,0.0,5,18,0.0,0.6000000000000001,small,True,True,0,Low
+laravel/settler,1000,328,Shell,mit,False,4495,841,841.0,0.0,0.0,19,74,0,0,-1.0,0,205,0.0,0.9,small,True,False,75,High
+observablehq/stdlib,1000,87,JavaScript,isc,False,3143,141,141.0,0.0,0.08,11,19,20,90,1.0,7,186,0.0,0.8,small,True,True,25,Medium
+thma/LtuPatternFactory,1000,37,Haskell,apache-2.0,False,2888,7,16.0,0.67,0.33,6,5,7,14,7.0,1,6,1.0,0.43,small,True,True,10,Low
+seishun/node-steam,1000,174,JavaScript,mit,True,5099,2279,2279.0,0.0,0.0,7,7,1,426,0.0,0,4,35.0,0.08,small,True,True,100,High
+NASAWorldWind/WebWorldWind,1000,427,JavaScript,No license,False,4022,347,347.0,0.0,0.08,7,21,247,292,22.0,24,284,4.0,0.36,small,True,True,35,Medium
+vivisect/vivisect,1000,195,Python,apache-2.0,False,4309,0,28.0,1.33,1.25,13,37,87,100,22.0,33,455,15.0,0.66,small,True,True,0,Low
+photopea/Typr.js,1000,80,JavaScript,mit,False,3682,369,369.0,0.0,0.0,2,2,8,42,0.0,2,1,1.0,0.11,small,True,True,55,Medium
+bryx-inc/BRYXBanner,1000,138,Swift,mit,False,4054,1112,1112.0,0.0,0.0,24,26,15,66,26.0,1,29,0.0,0.63,small,True,True,75,High
+WangRongsheng/CareGPT,1000,125,Python,mit,True,1115,845,845.0,0.0,0.0,1,1,0,20,1.0,0,0,-1.0,0.0,small,False,True,100,High
+brunolee-GIT/W3M0dP4tch32,1000,61,None/Not detected,mit,False,1102,553,553.0,0.0,0.0,1,1,0,0,-1.0,1,0,-1.0,0.0,small,True,False,80,High
+LRitzdorf/TheJeffDeanFacts,1000,32,None/Not detected,gpl-3.0,False,1888,236,236.0,0.0,0.17,2,2,0,0,-1.0,1,1,0.0,0.33,small,True,False,35,Medium
+H07000223/FlycoSystemBar,1000,109,Java,mit,False,3751,3424,3751.0,0.0,0.0,1,1,4,1,0.0,1,0,-1.0,0.0,small,True,True,100,High
+google-research/magvit,1000,47,Python,apache-2.0,True,1371,958,958.0,0.0,0.0,2,2,21,3,46.0,0,0,-1.0,-1.0,small,False,True,100,High
+pydot/pydot,1000,176,Python,No license,False,4159,1,5.0,6.67,4.08,13,38,37,243,3.0,18,206,0.0,0.38,small,True,True,0,Low
+cloudfuji/kandan,1000,116,JavaScript,agpl-3.0,False,5292,4957,4957.0,0.0,0.0,8,9,0,0,-1.0,0,16,0.0,0.76,small,True,False,75,High
+nnethercote/dhat-rs,1000,47,Rust,apache-2.0,False,2095,558,558.0,0.0,0.0,4,7,13,17,21.0,5,7,2.0,0.44,small,True,True,55,Medium
+ZJUI-AI4H/Hulu-Med,1000,36,Python,apache-2.0,False,329,3,3.0,1.0,8.92,3,3,23,26,1.0,0,0,-1.0,-1.0,small,False,True,0,Low
+takuyaa/kuromoji.js,1000,156,JavaScript,No license,False,4290,1025,2839.0,0.0,0.0,4,8,15,11,50.0,8,13,9.0,0.45,small,True,True,75,High
+larsenwork/postcss-easing-gradients,1000,25,JavaScript,mit,False,3433,1399,2921.0,0.0,0.0,1,1,11,2,1292.0,3,1,5.0,0.25,small,True,True,100,High
+danielpclark/rutie,1000,63,Rust,mit,False,2996,129,129.0,0.0,0.08,6,27,36,42,54.0,4,94,1.0,0.64,small,True,True,25,Medium
+PSPDFKit-labs/bypass,1000,118,Elixir,mit,False,4003,419,419.0,0.0,0.0,20,35,15,51,38.0,12,54,10.0,0.58,small,True,True,55,Medium
+stanislav-web/OpenDoor,1000,188,Python,gpl-3.0,False,3684,2,31.0,9.0,12.75,2,9,2,50,219.0,2,41,0.0,0.46,small,True,True,0,Low
+wix-incubator/mjml-react,1000,47,JavaScript,mit,False,3009,1226,1419.0,0.0,0.0,13,16,3,57,7.0,0,25,0.0,0.6900000000000001,small,True,True,75,High
+MangoAutomation/modbus4j,1000,394,Java,gpl-3.0,False,4466,78,805.0,0.0,0.0,11,17,43,20,1.0,4,7,0.0,0.44,small,True,True,75,High
+miickel/flutter_particle_clock,1000,171,Dart,No license,False,2420,1262,1988.0,0.0,0.0,3,3,2,6,1.0,1,3,0.0,0.6000000000000001,small,True,True,75,High
+mbrossar/ai-imu-dr,1000,261,Python,mit,False,2710,602,602.0,0.0,0.0,2,2,38,55,13.0,1,2,24.0,0.5,small,True,True,55,Medium
+flavorjones/loofah,1000,145,Ruby,mit,False,6234,48,48.0,4.67,2.0,9,54,15,129,1.0,5,116,0.0,0.8,small,True,True,0,Low
+controlplaneio/simulator,1000,100,Python,apache-2.0,False,2647,730,821.0,0.0,0.0,10,22,5,118,73.0,13,191,73.0,0.02,small,True,True,75,High
+HumanCompatibleAI/overcooked_ai,1000,226,Jupyter Notebook,mit,False,2627,528,528.0,0.0,0.0,8,27,13,64,15.0,2,68,4.0,0.62,small,True,True,55,Medium
+freekmurze/dotfiles,1000,201,Vim Script,No license,False,4501,15,15.0,11.67,8.17,3,30,0,0,-1.0,0,49,0.0,0.86,small,True,False,0,Low
+asreview/asreview,1000,179,Python,apache-2.0,False,2792,1,1.0,3.67,7.42,10,60,91,431,2.0,21,1378,4.0,0.44,small,True,True,0,Low
+rampageX/firmware-mod-kit,1000,206,C,No license,False,4113,196,196.0,0.0,0.42,23,22,62,111,0.0,0,23,38.0,0.92,small,True,True,35,Medium
+piotrnar/gocoin,1000,223,Go,other,False,4906,3,3.0,22.33,15.42,0,2,6,60,0.0,2,1,3.0,0.08,small,True,True,0,Low
+kavinsood/yaos,1000,79,TypeScript,0bsd,False,197,3,5.0,33.67,43.17,1,3,4,39,2.0,0,8,0.0,0.42,small,True,True,0,Low
+felixrieseberg/React-Dropzone-Component,1000,148,JavaScript,mit,False,4129,1365,2519.0,0.0,0.0,15,24,82,100,0.0,15,35,0.0,0.56,small,True,True,75,High
+danielealbano/cachegrand,1000,35,C,bsd-3-clause,False,3093,607,607.0,0.0,0.0,2,7,27,51,15.0,0,355,0.0,1.0,small,True,True,55,Medium
+kkrt-labs/kakarot,1000,310,Cairo,mit,True,1428,601,601.0,0.0,0.0,17,86,33,588,4.0,2,889,0.0,0.48,small,True,True,100,High
+SolaWing/xcode-build-server,1000,39,Python,mit,False,2341,214,214.0,0.0,1.08,8,8,7,82,3.0,0,12,0.0,0.75,small,True,True,35,Medium
+prof7bit/TorChat,1000,277,Pascal,No license,False,5322,2871,4607.0,0.0,0.0,2,2,57,11,7.0,11,3,5.0,0.14,small,True,True,75,High
+mac-gallagher/MultiProgressView,1000,61,Swift,mit,False,2990,1984,2252.0,0.0,0.0,1,1,5,9,3.0,1,34,0.0,0.85,small,True,True,100,High
+RussTedrake/underactuated,1000,251,HTML,other,False,4384,43,100.0,0.0,0.8300000000000001,3,34,4,162,4.0,14,352,0.0,0.56,small,True,True,25,Medium
+dylanraga/win11hdr-srgb-to-gamma2.2-icm,1000,26,JavaScript,No license,False,1187,775,775.0,0.0,0.0,2,2,49,40,0.0,1,1,0.0,0.33,small,True,True,75,High
+EvoLinkAI/awesome-openclaw-usecases-moltbook,1000,109,None/Not detected,other,False,194,78,78.0,1.33,2.0,1,1,2,0,-1.0,5,0,-1.0,0.0,small,True,True,25,Medium
+Fausto-Korpsvart/Gruvbox-GTK-Theme,1000,53,SCSS,gpl-3.0,False,1695,313,313.0,0.0,0.42,7,7,28,65,33.0,6,7,0.0,0.28,small,True,True,35,Medium
+738/awesome-devbook,1000,86,None/Not detected,other,False,2065,1594,1594.0,0.0,0.0,13,13,0,2,2.0,0,16,0.0,1.0,small,True,True,75,High
+alan2207/awesome-codebases,1000,107,None/Not detected,mit,False,1181,1046,1181.0,0.0,0.0,1,1,1,0,-1.0,4,0,-1.0,0.0,small,True,True,100,High
+pnp/PnP-PowerShell,1000,638,C#,other,True,4058,2051,2051.0,0.0,0.0,13,129,778,722,23.0,4,1273,12.0,0.84,small,True,True,100,High
+MichalGeyer/plug-and-play,1000,64,Python,No license,False,1302,1170,1170.0,0.0,0.0,5,5,11,8,20.0,2,3,0.0,0.43,small,True,True,75,High
+tylearymf/SETUNA2,1000,183,C#,mit,True,3377,1286,1532.0,0.0,0.0,3,2,18,32,16.0,0,1,0.0,0.5,small,True,True,100,High
+SupeRuier/awesome-active-learning,1000,87,None/Not detected,No license,False,2441,170,170.0,0.0,0.08,3,3,0,2,6.0,1,2,652.0,0.67,small,True,True,25,Medium
+ZL-Audio/ZLEqualizer,1000,43,C++,agpl-3.0,False,996,5,5.0,43.33,30.83,3,5,1,149,0.0,0,109,0.0,0.9,small,True,True,0,Low
+roots/acorn,1000,109,PHP,mit,False,2946,2,92.0,0.0,5.08,13,53,7,169,12.0,18,313,0.0,0.54,small,True,True,25,Medium
+molstar/molstar,1000,256,TypeScript,mit,False,3150,0,3.0,86.67,62.83,9,66,84,831,3.0,23,755,1.0,0.8200000000000001,small,True,True,0,Low
+wagslane/go-rabbitmq,1000,151,Go,mit,False,2005,51,51.0,16.67,4.25,13,40,2,116,54.0,1,87,0.0,0.68,small,True,True,0,Low
+mikinty/Trading-Interview-Questions,999,102,TypeScript,No license,False,2516,246,246.0,0.0,0.42,2,1,0,3,224.0,5,18,10.0,0.72,small,True,True,35,Medium
+hanks-zyh/SmallBang,999,155,Java,apache-2.0,False,3904,3204,3204.0,0.0,0.0,2,2,6,10,252.0,0,1,0.0,0.33,small,True,True,75,High
+vchinnipilli/kubestriker,999,109,Python,apache-2.0,False,2093,879,1945.0,0.0,0.0,1,2,10,11,14.0,8,10,0.0,0.56,small,True,True,100,High
+chrisdone-archive/intero,999,133,Haskell,bsd-3-clause,True,4335,2412,2412.0,0.0,0.0,16,65,0,0,-1.0,0,138,0.0,0.86,small,True,False,100,High
+MatiBot/MBCircularProgressBar,999,178,Objective-C,mit,False,4062,847,847.0,0.0,0.0,5,6,39,27,63.0,14,6,22.0,0.21,small,True,True,75,High
+sehmaschine/django-filebrowser,999,406,Python,other,False,5657,23,36.0,1.67,1.25,7,31,13,271,13.0,5,48,4.0,0.38,small,True,True,0,Low
+RJ/ketama,999,166,C,bsd-2-clause,False,6266,2090,4354.0,0.0,0.0,7,8,7,3,254.0,3,8,46.0,0.73,small,True,True,75,High
+letsar/flutter_sticky_header,999,185,Dart,mit,False,3006,469,469.0,0.0,0.0,5,5,32,61,120.0,5,7,12.0,0.39,small,True,True,55,Medium
+bhdicaire/visioStencils,999,410,Shell,unlicense,False,1935,512,512.0,0.0,0.0,1,1,3,3,32.0,0,0,-1.0,-1.0,small,False,True,80,High
+robpike/lisp,999,52,Go,bsd-3-clause,False,2268,653,653.0,0.0,0.0,5,5,0,1,0.0,0,6,0.0,0.86,small,True,True,55,Medium
+haydenull/logseq-plugin-agenda,999,54,TypeScript,mit,False,1657,814,814.0,0.0,0.0,3,10,84,199,67.0,2,63,0.0,0.92,small,True,True,75,High
+dailydotdev/apps,999,302,TypeScript,agpl-3.0,False,2225,0,0.0,146.0,150.42,7,77,3,51,1.0,37,5929,0.0,0.58,small,True,True,0,Low
+EtherDream/freecdn,999,78,JavaScript,No license,False,2130,1548,1548.0,0.0,0.0,1,1,5,13,13.0,1,0,-1.0,0.0,small,True,True,100,High
+FedericoBruzzone/tgt,999,48,Rust,apache-2.0,False,929,16,16.0,10.67,30.67,7,16,14,40,5.0,1,287,0.0,0.98,small,True,True,0,Low
+ruotianluo/self-critical.pytorch,999,269,Python,mit,False,3407,1063,1063.0,0.0,0.0,2,7,88,192,1.0,1,4,0.0,0.67,small,True,True,75,High
+saitamasahil/Pixel-Launcher-Extended,999,43,Shell,gpl-3.0,False,1369,1112,1112.0,0.0,0.0,2,9,27,25,3.0,1,20,0.0,0.6900000000000001,small,True,True,75,High
+vladikoff/grunt-devtools,999,63,JavaScript,mit,False,4937,3675,4593.0,0.0,0.0,1,1,16,15,2.0,1,1,0.0,0.17,small,True,True,100,High
+sonnyp/Tangram,999,47,JavaScript,gpl-3.0,False,2617,22,31.0,0.33,0.67,9,14,60,196,158.0,6,57,0.0,0.5,small,True,True,10,Low
+cinchrb/cinch,999,183,Ruby,mit,True,5975,2698,2698.0,0.0,0.0,13,39,25,149,0.0,7,26,10.0,0.26,small,True,True,100,High
+prayash/awesome-gatsby,999,84,None/Not detected,No license,False,3334,1295,1295.0,0.0,0.0,29,29,2,1,11.0,4,38,2.0,0.78,small,True,True,75,High
+baidu/DDParser,999,156,Python,apache-2.0,False,2221,1305,1305.0,0.0,0.0,0,2,14,59,6.0,1,1,0.0,0.33,small,True,True,100,High
+linvi/tweetinvi,999,214,C#,mit,False,4173,752,1752.0,0.0,0.0,4,21,229,891,0.0,17,34,13.0,0.26,small,True,True,75,High
+DravenALG/awesome-vla-wam,999,40,None/Not detected,No license,False,208,0,0.0,16.33,10.5,3,4,0,5,2.0,0,2,0.0,0.67,small,True,True,0,Low
+trello-archive/victor,999,47,Java,apache-2.0,False,4204,1258,1911.0,0.0,0.0,6,7,0,40,4.0,0,39,0.0,0.91,small,True,True,75,High
+javafxports/openjdk-jfx,999,146,C++,gpl-2.0,True,3122,1961,2527.0,0.0,0.0,11,39,167,225,4.0,12,171,4.0,0.62,small,True,True,100,High
+Netflix-Skunkworks/sketchy,999,122,JavaScript,apache-2.0,False,4416,834,2062.0,0.0,0.0,10,242,2,23,10.0,7,14,2.0,0.41000000000000003,small,True,True,75,High
+dogfun/chanlun,100,51,Python,No license,False,1757,1678,1678.0,0.0,0.0,0,1,0,0,-1.0,0,0,-1.0,-1.0,tiny,False,False,100,High
+LinXce/merchant-2-cute-ii,100,2,C#,gpl-3.0,False,127,30,30.0,1.33,2.92,1,2,1,0,-1.0,0,1,0.0,1.0,tiny,True,True,25,Medium
+pdf-association/pdf-issues,100,4,None/Not detected,cc-by-4.0,False,2085,3,3.0,2.67,9.33,1,70,238,548,2.0,0,3,0.0,1.0,tiny,True,True,25,Medium
+slanatech/dashblocks,100,21,Vue,mit,False,2901,1188,1188.0,0.0,0.0,2,1,2,1,19.0,27,5,2.0,0.12,tiny,True,True,75,High
+geerlingguy/packer-ubuntu-1804,100,49,None/Not detected,No license,True,3049,2455,2455.0,0.0,0.0,2,2,0,9,209.0,0,1,0.0,0.33,tiny,True,True,100,High
+NARUBROWN/spine,100,10,Go,mit,False,230,30,30.0,4.0,7.0,3,3,0,2,3.0,0,2,2.0,0.67,tiny,True,True,0,Low
+mlb2251/stitch,100,12,Rust,mit,False,1767,356,363.0,0.0,0.33,2,5,23,93,17.0,9,118,0.0,0.74,tiny,True,True,35,Medium
+dlenski/wtf,100,11,Python,gpl-3.0,False,4385,1403,1403.0,0.0,0.0,5,5,5,9,3.0,2,7,0.0,0.5,tiny,True,True,75,High
+Soltsice/Soltsice,100,10,TypeScript,mit,True,3290,2711,2711.0,0.0,0.0,4,4,6,21,1.0,0,5,0.0,0.71,tiny,True,True,100,High
+kartoza/docker-qgis-desktop,100,42,Shell,gpl-2.0,False,4432,84,84.0,0.33,0.08,9,10,11,18,64.0,2,10,1.0,0.71,tiny,True,True,10,Low
+KhrylchenkoKirill/DeepRecSys,100,12,Jupyter Notebook,cc-by-4.0,False,246,57,57.0,2.0,8.5,6,7,1,1,1.0,0,12,0.0,1.0,tiny,True,True,0,Low
+ajisth69/clashgram,100,13,TypeScript,gpl-3.0,False,101,35,35.0,25.67,9.83,2,1,0,0,-1.0,0,8,0.0,1.0,tiny,True,False,0,Low
+poxiao2/CCTDecode,100,30,Python,No license,False,2446,2188,2188.0,0.0,0.0,1,1,5,0,-1.0,0,1,0.0,1.0,tiny,True,True,100,High
+laduniestu/better-next,100,4,TypeScript,No license,True,629,358,358.0,0.0,0.17,1,1,0,0,-1.0,0,2,0.0,0.67,tiny,True,False,100,High
+viperproject/silver,100,53,Scala,mpl-2.0,False,2386,1,6.0,5.33,4.25,14,59,109,473,13.0,18,295,0.0,0.9,tiny,True,True,0,Low
+figma/vite-plugin-yaml,100,17,TypeScript,mit,False,1651,31,555.0,0.0,0.0,7,10,10,8,60.0,5,13,4.0,0.52,tiny,True,True,55,Medium
+yesmeck/mini-store,100,13,TypeScript,No license,True,3238,1706,1706.0,0.0,0.0,7,6,1,5,7.0,0,7,0.0,0.78,tiny,True,True,100,High
+SmartThingsUle/DLNA-PLAYER,100,255,Groovy,No license,False,4219,2881,2881.0,0.0,0.0,1,1,12,4,1.0,3,0,-1.0,0.0,tiny,True,True,100,High
+osixia/docker-openldap-backup,100,42,Shell,mit,False,4060,1840,2020.0,0.0,0.0,2,3,9,5,5.0,2,1,121.0,0.33,tiny,True,True,75,High
+LaicZhang/awesome-ebooks,100,28,None/Not detected,No license,False,2618,781,781.0,0.0,0.0,1,1,0,1,9.0,0,0,-1.0,-1.0,tiny,False,True,100,High
+CNMan/UnicodeCJK-WuBi,100,24,None/Not detected,No license,False,2908,1411,1411.0,0.0,0.0,1,4,1,12,418.0,0,2,1.0,0.5,tiny,True,True,100,High
+myqianlan/antd-admin-boilerplate,100,29,JavaScript,No license,False,3445,2210,2210.0,0.0,0.0,1,1,4,1,0.0,2,0,-1.0,0.0,tiny,True,True,100,High
+PaulKlinger/cnn_card,100,5,C,mit,False,2180,2095,2095.0,0.0,0.0,1,1,0,0,-1.0,0,0,-1.0,-1.0,tiny,False,False,100,High
+AstraZeneca/DiffAbXL,100,9,Python,apache-2.0,False,693,448,448.0,0.0,0.0,1,1,0,4,1.0,0,0,-1.0,0.0,tiny,False,True,80,High
+v4rl-ucy/decoSLAM,100,7,C++,bsd-3-clause,False,1283,1197,1197.0,0.0,0.0,1,4,2,2,425.0,0,1,0.0,1.0,tiny,True,True,100,High
+LiuZH-19/ESG,100,19,Python,No license,False,1552,1288,1288.0,0.0,0.0,1,1,1,1,505.0,0,0,-1.0,-1.0,tiny,False,True,100,High
+hanc00l/jscat,100,25,Python,No license,True,2428,2166,2166.0,0.0,0.0,2,2,0,0,-1.0,0,1,3.0,1.0,tiny,True,False,100,High
+Cotonti/Cotonti,100,55,PHP,bsd-3-clause,False,5792,131,131.0,0.0,3.92,5,22,140,1587,9.0,4,77,5.0,0.08,tiny,True,True,25,Medium
+ejbills/OpenArtemis,100,12,Swift,gpl-3.0,True,1005,521,521.0,0.0,0.0,5,5,16,11,0.0,0,35,0.0,0.8300000000000001,tiny,True,True,100,High
+Ailln/awesome-hexo-theme,100,3,None/Not detected,mit,False,2569,625,625.0,0.0,0.0,1,1,0,0,-1.0,0,0,-1.0,-1.0,tiny,False,False,80,High
+zjuchenyuan/dockerized_fuzzing,100,18,Dockerfile,mit,False,2291,1994,1994.0,0.0,0.0,2,2,1,0,-1.0,0,2,0.0,1.0,tiny,True,True,75,High
+checkmarx-ltd/cx-flow,100,89,Java,apache-2.0,False,2640,82,82.0,2.67,2.08,8,60,10,405,116.0,0,872,0.0,0.78,tiny,True,True,0,Low
+rufuspollock-okfn/dataconverters,100,31,Python,No license,False,5140,2282,3350.0,0.0,0.0,5,8,26,59,1.0,0,19,0.0,0.9,tiny,True,True,75,High
+EthanRosenthal/nannernest,100,3,Python,agpl-3.0,False,2293,1136,2198.0,0.0,0.0,1,1,0,1,1.0,5,4,0.0,0.29,tiny,True,True,100,High
+RasikaWarade/chrome-extension-mv3-firebase-boilerplate,100,15,JavaScript,mit,False,1675,1668,1668.0,0.0,0.0,1,1,3,2,6.0,0,0,-1.0,-1.0,tiny,False,True,100,High
+hypercerts-org/hypercerts,100,29,Solidity,other,True,1369,574,574.0,0.0,0.0,4,13,0,688,35.0,0,497,0.0,0.8200000000000001,tiny,True,True,100,High
+Trisia/gotlcp,100,25,Go,mit,False,1495,35,50.0,19.0,5.67,3,4,0,22,6.0,1,13,0.0,0.81,tiny,True,True,0,Low
+Zainabfadeyi/CashCoach,100,1,Python,mit,False,687,637,637.0,0.0,0.0,2,2,0,0,-1.0,0,12,0.0,0.92,tiny,True,False,55,Medium
+evilfer/react-phaser,100,16,JavaScript,other,False,3805,3785,3785.0,0.0,0.0,0,1,7,3,1.0,0,0,-1.0,-1.0,tiny,False,True,100,High
+loongson-community/docs,100,24,None/Not detected,No license,False,2236,57,57.0,3.67,2.5,3,8,0,1,493.0,0,15,0.0,0.9400000000000001,tiny,True,True,0,Low
+AliSoftware/SourceryTemplates,100,10,HTML,mit,False,3398,2580,2580.0,0.0,0.0,1,2,0,0,-1.0,1,3,13.0,0.6000000000000001,tiny,True,False,100,High
+ymex/banner,100,19,Java,No license,False,3280,2661,2661.0,0.0,0.0,1,1,1,5,239.0,0,0,-1.0,-1.0,tiny,False,True,100,High
+vectra-ai-research/derf,100,12,HCL,gpl-3.0,False,1373,963,963.0,0.0,0.0,1,2,0,0,-1.0,1,0,-1.0,0.0,tiny,True,False,100,High
+square/jirafy,100,24,HTML,apache-2.0,True,4914,1263,2506.0,0.0,0.0,7,23,5,6,211.0,4,7,0.0,0.5,tiny,True,True,100,High
+meetupforense/computacao-forense,100,30,None/Not detected,No license,False,2659,890,2574.0,0.0,0.0,3,4,3,0,-1.0,0,3,0.0,0.5,tiny,True,True,75,High
+vardan-arm/tailwind-to-inline,100,7,TypeScript,No license,False,730,166,166.0,0.0,1.33,3,3,0,3,9.0,1,16,0.0,0.9400000000000001,tiny,True,True,25,Medium
+ConcealNetwork/conceal-core,100,68,C++,mit,False,3047,47,47.0,12.67,5.5,4,21,0,11,10.0,0,313,0.0,0.72,tiny,True,True,0,Low
+alt3kx/CVE-2022-22965,100,14,Lua,gpl-3.0,False,1609,1608,1608.0,0.0,0.0,2,2,0,2,0.0,0,1,0.0,1.0,tiny,True,True,75,High
+mkw-sp/mkw-sp,100,37,C++,mit,False,1736,265,265.0,0.0,0.17,10,17,234,218,5.0,13,435,0.0,0.78,tiny,True,True,35,Medium
+robinvanderknaap/MvcJqGrid,100,71,C#,lgpl-3.0,False,5930,2837,2837.0,0.0,0.0,8,8,7,40,15.0,1,11,6.0,0.85,tiny,True,True,75,High
+pablo14/funModeling,100,30,HTML,mit,False,3858,196,196.0,0.0,0.17,4,4,3,13,15.0,1,9,1.0,0.8200000000000001,tiny,True,True,35,Medium
+GeekyTheory/Raspberry-Pi-Status,100,44,HTML,apache-2.0,False,4659,1378,2046.0,0.0,0.0,5,4,4,1,0.0,3,5,3.0,0.56,tiny,True,True,75,High
+ustwo/autocluster,100,11,JavaScript,mit,False,4228,932,4052.0,0.0,0.0,1,21,0,3,0.0,1,0,-1.0,0.0,tiny,True,True,100,High
+trilwu/miLazyCracker,100,25,Shell,No license,False,3488,2739,3505.0,0.0,0.0,1,1,0,0,-1.0,1,0,-1.0,0.0,tiny,True,False,100,High
+Eoin-McMahon/blindfold,100,1,Rust,mit,False,2284,6,432.0,0.0,0.0,7,6,1,6,379.0,8,14,0.0,0.35000000000000003,tiny,True,True,55,Medium
+trungdinh22/License-Plate-Recognition,100,44,Jupyter Notebook,other,False,1543,1511,1511.0,0.0,0.0,1,2,1,1,0.0,0,0,-1.0,0.0,tiny,False,True,100,High
+tensorchord/pg_bestmatch.rs,100,17,Rust,apache-2.0,False,828,666,666.0,0.0,0.0,6,11,11,5,16.0,0,10,0.0,0.91,tiny,True,True,55,Medium
+seisman/HinetPy,100,43,Python,mit,False,4385,27,27.0,13.0,4.33,3,5,0,38,0.0,1,103,0.0,0.92,tiny,True,True,0,Low
+FriendsOfTYPO3/frontend_editing,100,36,JavaScript,No license,False,3796,973,1042.0,0.0,0.0,9,35,32,327,0.0,1,361,0.0,0.92,tiny,True,True,75,High
+vstinner/faulthandler,100,26,C,other,True,5731,2410,2410.0,0.0,0.0,7,11,0,24,7.0,0,9,0.0,0.64,tiny,True,True,100,High
+liyufengrex/HarmonyAtomicService,100,12,TypeScript,No license,False,906,561,561.0,0.0,0.0,1,1,0,1,20.0,0,0,-1.0,-1.0,tiny,False,True,80,High
+ROCTUP/1c-buddy,100,19,JavaScript,agpl-3.0,False,301,23,23.0,0.67,1.08,2,2,3,13,37.0,0,1,0.0,0.5,tiny,True,True,10,Low
+Betree/magicblue,100,22,Python,mit,True,3935,1364,3146.0,0.0,0.0,6,6,7,25,2.0,16,18,0.0,0.1,tiny,True,True,100,High
+sindresorhus/gulp-ftp,100,21,JavaScript,mit,True,4633,3743,3944.0,0.0,0.0,2,3,0,0,-1.0,0,2,0.0,0.2,tiny,True,False,100,High
+jonwagner/EventSourceProxy,100,19,C#,other,False,4932,553,553.0,0.0,0.0,10,10,0,49,14.0,0,8,4.0,0.5,tiny,True,True,55,Medium
+jincod/AspNetCoreDemoApp,100,91,C#,mit,False,3997,1225,1225.0,0.0,0.0,1,1,0,5,9.0,0,0,-1.0,0.0,tiny,False,True,100,High
+OpenFlutter/mmkv_flutter,100,10,Dart,gpl-3.0,False,2895,2153,2895.0,0.0,0.0,1,10,2,1,7.0,1,0,-1.0,0.0,tiny,True,True,100,High
+markriedl/gaige,100,8,Python,mit,False,2836,2789,2789.0,0.0,0.0,1,1,0,0,-1.0,0,0,-1.0,-1.0,tiny,False,False,100,High
+vueComponent/vue-ref,100,13,JavaScript,mit,False,2848,992,2337.0,0.0,0.0,2,15,4,1,2.0,0,0,-1.0,0.0,tiny,False,True,75,High
+QCW-qcw/FlowerManagmentSystem-Qt,100,22,C++,No license,False,1879,1855,1855.0,0.0,0.0,1,1,0,0,-1.0,0,0,-1.0,-1.0,tiny,False,False,100,High
+rogerwelin/pg_column_tetris,100,2,PLpgSQL,mit,False,131,125,125.0,0.0,2.5,1,1,0,1,0.0,0,1,0.0,1.0,tiny,True,True,50,Medium
+DataDog/chef-datadog,100,253,Ruby,apache-2.0,False,5402,174,174.0,0.0,1.0,29,5464,55,192,5.0,5,536,1.0,0.78,tiny,True,True,25,Medium
+MarkMpn/Sql4Cds,100,33,C#,mit,False,2405,19,19.0,11.33,19.17,3,5,26,483,5.0,0,239,2.0,0.98,tiny,True,True,0,Low
+CleverTap/clevertap-android-sdk,100,80,Kotlin,mit,False,4012,0,25.0,8.67,15.17,8,23,1,237,52.0,30,679,0.0,0.4,tiny,True,True,0,Low
+laxmimerit/CV-Parsing-using-Spacy-3,100,99,None/Not detected,No license,False,2326,1537,1537.0,0.0,0.0,1,1,6,0,-1.0,0,0,-1.0,-1.0,tiny,False,True,100,High
+sjtuyinjie/SJTU_GVI,100,7,None/Not detected,No license,False,1657,648,648.0,0.0,0.0,2,2,0,3,14.0,0,0,-1.0,-1.0,tiny,False,True,55,Medium
+ethomson/github4life,100,19,JavaScript,mit,False,2255,1002,1002.0,0.0,0.0,3,2,1,2,5.0,6,2,0.0,0.2,tiny,True,True,75,High
+victorsteven/Unit-And-Integration-Testing,100,17,Go,No license,False,2471,2464,2464.0,0.0,0.0,1,1,0,0,-1.0,0,0,-1.0,-1.0,tiny,False,False,100,High
+johnmyleswhite/JAGSExamples,100,37,R,No license,False,5318,5241,5241.0,0.0,0.0,1,1,0,0,-1.0,0,0,-1.0,-1.0,tiny,False,False,100,High
+Mav3rick33/ZenLdr,100,8,C,No license,False,1283,1282,1282.0,0.0,0.0,1,1,0,0,-1.0,0,0,-1.0,-1.0,tiny,False,False,100,High
+MarchLiu/oliva,100,6,Java,No license,False,997,990,990.0,0.0,0.0,1,1,0,0,-1.0,0,0,-1.0,-1.0,tiny,False,False,100,High
+jokull/python-ts-graphql-demo,100,11,TypeScript,No license,False,1763,1732,1732.0,0.0,0.0,3,3,2,0,-1.0,1,3,0.0,0.75,tiny,True,True,75,High
+philipplackner/DictionaryYT,100,48,Kotlin,No license,False,1756,1745,1756.0,0.0,0.0,1,1,2,1,197.0,1,0,-1.0,0.0,tiny,True,True,100,High
+Ugenteraan/Deep_Hierarchical_Classification,100,22,Python,mit,False,2030,1692,1692.0,0.0,0.0,1,1,3,4,21.0,0,1,0.0,1.0,tiny,True,True,100,High
+techwithtim/3-Mini-Python-Projects-For-Intermediates,100,40,Python,No license,False,1625,684,684.0,0.0,0.0,1,1,2,2,13.0,1,0,-1.0,0.0,tiny,True,True,80,High
+samizdatco/nginx-http-auth-digest,100,62,C,other,False,5415,36,36.0,0.67,0.17,12,11,7,23,542.0,2,5,1.0,0.38,tiny,True,True,10,Low
+StarfireLab/AutoZerologon,100,9,Python,No license,False,1147,1078,1078.0,0.0,0.0,0,1,0,1,0.0,0,0,-1.0,-1.0,tiny,False,True,100,High
+theyashpatel/yt-react-weather-app,100,33,JavaScript,No license,False,1554,946,1532.0,0.0,0.0,1,1,5,0,-1.0,0,0,-1.0,0.0,tiny,False,True,100,High
+PearOCR/pearocr_issue,100,7,None/Not detected,No license,False,1849,1724,1724.0,0.0,0.0,1,1,44,26,15.0,0,0,-1.0,-1.0,tiny,False,True,100,High
+miguelbranco80/goconfig,100,145,Go,other,True,6124,3717,3717.0,0.0,0.0,3,4,1,3,196.0,1,3,7.0,0.38,tiny,True,True,100,High
+cenkalti/pypi-notifier,100,19,Python,mit,True,4798,413,413.0,0.0,0.0,3,3,0,7,275.0,2,3,0.0,0.5,tiny,True,True,100,High
+jeffchan/truncate.js,100,39,JavaScript,mit,False,4810,3039,3039.0,0.0,0.0,9,9,11,16,41.0,2,16,0.0,0.8,tiny,True,True,75,High
+CrQiu/Lyapunov-optimization,100,22,Python,No license,False,2628,2628,2628.0,0.0,0.0,1,1,1,0,-1.0,0,0,-1.0,-1.0,tiny,False,True,100,High
+projectacrn/acrn-kernel,100,152,C,other,False,3033,184,559.0,0.0,0.0,14,9616,4,44,535.0,3,256,6.0,0.74,tiny,True,True,55,Medium
+DirtyHarryLYL/HAKE-Action,100,13,None/Not detected,apache-2.0,False,2370,1336,1336.0,0.0,0.0,1,3,0,82,4.0,0,3,0.0,1.0,tiny,True,True,100,High
+bradtraversy/wordpair_generator,100,47,C++,No license,False,2456,973,1057.0,0.0,0.0,2,2,0,0,-1.0,1,1,5.0,0.33,tiny,True,False,75,High
+sara-nl/js-webdav-client,100,15,JavaScript,gpl-3.0,False,5103,1952,3199.0,0.0,0.0,4,10,6,5,6.0,1,4,73.0,0.8,tiny,True,True,75,High
+AcademySoftwareFoundation/openqmc,100,6,C++,apache-2.0,False,1190,16,16.0,10.0,4.92,4,10,13,17,58.0,2,72,0.0,0.88,tiny,True,True,0,Low
+Pawel-N-pl/bmad-assist,100,24,Python,No license,False,227,86,86.0,1.0,10.42,2,7,4,7,0.0,6,6,0.0,0.18,tiny,True,True,0,Low
